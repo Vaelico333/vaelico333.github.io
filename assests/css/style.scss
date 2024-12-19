@@ -8,6 +8,7 @@ $primary-color: #0b8b11;
 $secondary-color: #b99908;
 $background-color: #202020;
 $link-color: #0366d6;
+$title-font: 'Roboto', sans-serif; // New font for titles
 
 // Global styles
 body {
@@ -49,7 +50,7 @@ a {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-.logo {width: 150px;
+.logo {width: 50px;
    // Cambia el tamaño según tus necesidades
   // O usa transform para escalar
   //transform: scale(0.5);  // Escala el logo al 150% de su tamaño original
@@ -59,6 +60,7 @@ a {
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   color: $primary-color;
+  font-family: $title-font; // Apply new font to titles
 }
 
 p {

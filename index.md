@@ -12,8 +12,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Great Learning student project: online school analysis](/gl/Learner2B-2BCode2B-2BCustomers%252BPrediction.html)
+<img src="images/extraalearn_front.png?raw=true"/>
 
 ---
 
@@ -27,9 +27,4 @@
 
 ---
 
-
-
-
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
