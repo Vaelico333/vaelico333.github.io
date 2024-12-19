@@ -1,7 +1,7 @@
----
----
+// ...
 
-@import "{{ site.theme }}";
+@import "theme";
+
 // Variables
 $font-stack: Helvetica, sans-serif;
 $primary-color: #0b8b11;
@@ -50,10 +50,10 @@ a {
 }
 
 .logo {
-    transform: scale(0.5); // Cambia el tamaño según tus necesidades
-    // O usa transform para escalar
-    //width: 150px;  // Escala el logo al 150% de su tamaño original
-  }
+  transform: scale(0.5); // Cambia el tamaño según tus necesidades
+  // O usa transform para escalar
+  //width: 150px;  // Escala el logo al 150% de su tamaño original
+}
 
 // Typography
 h1, h2, h3, h4, h5, h6 {
@@ -87,3 +87,5 @@ p {
 .pt-2 { padding-top: 2rem; }
 .pb-1 { padding-bottom: 1rem; }
 .pb-2 { padding-bottom: 2rem; }
+
+// ...
