@@ -4,9 +4,9 @@
 @import "{{ site.theme }}";
 // Variables
 $font-stack: Helvetica, sans-serif;
-$primary-color: #333;
-$secondary-color: #555;
-$background-color: #f4f4f4;
+$primary-color: #0b8b11;
+$secondary-color: #b99908;
+$background-color: #202020;
 $link-color: #0366d6;
 
 // Global styles
@@ -44,7 +44,7 @@ a {
 
 .main {
   padding: 20px;
-  background-color: white;
+  background-color: rgb(22, 7, 7);
   border-radius: 5px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
