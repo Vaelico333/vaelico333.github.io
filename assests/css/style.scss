@@ -49,10 +49,10 @@ a {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-.logo {
-  transform: scale(0.5); // Cambia el tamaño según tus necesidades
+.logo {width: 150px;
+   // Cambia el tamaño según tus necesidades
   // O usa transform para escalar
-  //width: 150px;  // Escala el logo al 150% de su tamaño original
+  //transform: scale(0.5);  // Escala el logo al 150% de su tamaño original
 }
 
 // Typography
