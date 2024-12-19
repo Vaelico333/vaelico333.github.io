@@ -49,6 +49,12 @@ a {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+.logo {
+    transform: scale(0.5); // Cambia el tamaño según tus necesidades
+    // O usa transform para escalar
+    //width: 150px;  // Escala el logo al 150% de su tamaño original
+  }
+
 // Typography
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
