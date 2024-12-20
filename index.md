@@ -2,13 +2,16 @@
 
 ---
 
-### Education projects 
+### Education projects
 
-[Project 1 Title](/sample_page)
+#### [Project 1 Title](/sample_page)
+
 <img src="images/dummy_thumbnail.jpg?raw=true" alt= "sample page"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+
+#### [Project 2 Title](/pdf/sample_presentation.pdf)
+
 <img src="images/dummy_thumbnail.jpg?raw=true" alt= "sample presentation"/>
 
 ---
@@ -21,11 +24,8 @@
 
 ### Work projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Soon](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 
 ---
 
