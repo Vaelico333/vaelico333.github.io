@@ -12,7 +12,9 @@
 <img src="images/dummy_thumbnail.jpg?raw=true" alt= "sample presentation"/>
 
 ---
-[Great Learning student project: online school analysis](/gl/Learner2B-2BCode2B-2BCustomers%252BPrediction.html)
+
+#### [Great Learning student project: online school analysis](/gl/Learner2B-2BCode2B-2BCustomers%252BPrediction.html)
+
 <img src="images/extraalearn_front.png?raw=true" alt= "ExtraaLearn Analysis"/>
 
 ---
