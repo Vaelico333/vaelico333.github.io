@@ -53,7 +53,9 @@ a {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-.logo {width: 50px;
+.logo {width: 10px;
+    transform: scale(0.5);
+    align-self: flex-start;
    // Cambia el tamaño según tus necesidades
   // O usa transform para escalar
   //transform: scale(0.5);  // Escala el logo al 150% de su tamaño original
