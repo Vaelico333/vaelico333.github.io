@@ -8,7 +8,7 @@ $primary-color: #0b8b11;
 $secondary-color: #b99908;
 $background-color: #202020;
 $link-color: #08723d;
-$title-font: 'Comic Sans', sans-serif; // New font for titles
+$title-font: 'Times New Roman', Times, serif; // New font for titles
 
 // Global styles
 body {
@@ -30,6 +30,9 @@ a {
 }
 
 // Layout
+.title {
+    font-family: $title-font;
+}
 .container {
   width: 80%;
   margin: 0 auto;
