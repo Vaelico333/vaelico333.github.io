@@ -15,14 +15,14 @@ body {
   font-family: $font-stack;
   color: $primary-color;
   background-color: $background-color;
-  margin: 0;
+  margin: 10;
   padding: 0;
   line-height: 1.6;
 }
 
 a {
   color: $link-color;
-  text-decoration: none;
+  text-decoration: dotted;
 
   &:hover {
     text-decoration: underline;
@@ -57,7 +57,7 @@ a {
 // Logo
 .logo {
   width: 50px; // Adjust the size as needed
-  position: absolute;
+  position: relative;
   top: 10px;
   left: 10px;
 }
