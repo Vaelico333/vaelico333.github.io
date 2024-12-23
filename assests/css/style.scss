@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ jekyll-theme-minimal }}";
+@import "{{ pages-themes/minimal@v0.2.0 }}";
 
 $font-stack: 'Helvetica', sans-serif;
 $primary-color: #0b8b11;
