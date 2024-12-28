@@ -1,7 +1,6 @@
 ## Portfolio
 
 ---
-# Hola
 
 ### Education projects
 
