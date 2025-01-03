@@ -19,6 +19,6 @@
 
 ### Fun projects
 
-[Tick-tack toe](/games/test4.5.py)
+<iframe src="/games/build/web/index.html" width="400" height="500"></iframe>
 
 ---
