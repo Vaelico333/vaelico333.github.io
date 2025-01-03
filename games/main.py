@@ -154,7 +154,7 @@ def user_click():
 def reset_game():
     """Restarts the game on win or draw."""
     global grid, current_winner, current_player, is_draw
-    time.sleep(10)
+    time.sleep(3)
     current_player = 'x'
     current_winner = None
     is_draw = False

@@ -18,7 +18,8 @@
 ---
 
 ### Fun projects
-
-<script>{games/build/web/index.html}</script>
+<a href="games.md">
+    <img src="images/tt_t.png" alt="Tick-tack Toe Game">
+</a>
 
 ---
