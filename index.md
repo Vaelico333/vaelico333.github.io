@@ -19,7 +19,6 @@
 
 ### Fun projects
 
-<canvas id="gameCanvas" width="800" height="600"><canvas>
-<script src="games\build\web\games.apk"></script>
+<script>{games/build/web/index.html}</script>
 
 ---

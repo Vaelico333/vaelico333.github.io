@@ -1,6 +1,8 @@
 import pygame as pg
 import sys
 import time
+import asyncio
+
 
 # Initialize Pygame
 pg.init()
@@ -159,7 +161,7 @@ def reset_game():
     grid = [[None]*3 for _ in range(3)]
     game_initiating_window()
 
-def main():
+async def main():
     """
     Entry point to initialize and start the test4.5 game.
     """
@@ -167,20 +169,28 @@ def main():
     # Potentially other setup calls here...
     # Example of a loop or function in test4.5 to start the game:
     # test4_5.run_game_loop()
+    run = True
+    while run:
+# Main game loop
+        while True:
+            for event in pg.event.get():
+                if event.type == pg.QUIT:
+                    pg.quit()
+                    sys.exit()
+                elif event.type == pg.MOUSEBUTTONDOWN:
+                    user_click()
+                    if current_winner or is_draw:
+                        reset_game()
+
+            pg.display.update()
+            clock.tick(FPS)
+
+    
+            await asyncio.sleep(0)
+        
+asyncio.run(main())
 
 if __name__ == "__main__":
     main()
 
-# Main game loop
-while True:
-    for event in pg.event.get():
-        if event.type == pg.QUIT:
-            pg.quit()
-            sys.exit()
-        elif event.type == pg.MOUSEBUTTONDOWN:
-            user_click()
-            if current_winner or is_draw:
-                reset_game()
 
-    pg.display.update()
-    clock.tick(FPS)
