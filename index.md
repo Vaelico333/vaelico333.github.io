@@ -19,6 +19,6 @@
 
 ### Fun projects
 
-<iframe src="/games/build/web/index.html" width="400" height="500"></iframe>
+<iframe src="/games/build/web/index.html"></iframe>
 
 ---
