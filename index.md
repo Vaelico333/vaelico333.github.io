@@ -17,4 +17,8 @@
 
 ---
 
+### Fun projects
+
+[Tick-tack toe](/games/test4.5.py)
+
 ---
