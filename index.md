@@ -18,7 +18,7 @@
 ---
 
 ### Fun projects
-<a href="sample_page.md">
+<a href=games">
     <img src="images/tt_t.png" alt="Tick-tack Toe Game">
 </a>
 
