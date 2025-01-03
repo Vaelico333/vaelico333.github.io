@@ -4,6 +4,6 @@
 
 ### Tick-tack toe little game
 
-<script>{games/build/web/index.html}</script>
+<iframe src="/games/build/web/index.html"></iframe>
 
 ---
