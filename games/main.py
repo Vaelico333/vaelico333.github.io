@@ -8,8 +8,8 @@ import asyncio
 pg.init()
 
 # Constants
-WIDTH = 400
-HEIGHT = 500
+WIDTH = 1000
+HEIGHT = 1000
 BACKGROUND = (0, 0, 0)
 LINE_COLOR = (255, 255, 255)
 FONT_COLOR = (255, 255, 255)
@@ -154,6 +154,7 @@ def user_click():
 def reset_game():
     """Restarts the game on win or draw."""
     global grid, current_winner, current_player, is_draw
+    draw_status()
     time.sleep(3)
     current_player = 'x'
     current_winner = None
@@ -179,6 +180,7 @@ async def main():
                     sys.exit()
                 elif event.type == pg.MOUSEBUTTONDOWN:
                     user_click()
+                    
                     if current_winner or is_draw:
                         reset_game()
 
