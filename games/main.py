@@ -8,8 +8,8 @@ import asyncio
 pg.init()
 
 # Constants
-WIDTH = 1000
-HEIGHT = 1000
+WIDTH = 800
+HEIGHT = 800
 BACKGROUND = (0, 0, 0)
 LINE_COLOR = (255, 255, 255)
 FONT_COLOR = (255, 255, 255)
@@ -154,8 +154,18 @@ def user_click():
 def reset_game():
     """Restarts the game on win or draw."""
     global grid, current_winner, current_player, is_draw
-    draw_status()
-    time.sleep(3)
+    if current_winner:
+        message = current_winner.upper() + " won!"
+    elif is_draw:
+        message = "Game Draw!"
+
+    font = pg.font.Font(None, FONT_SIZE)
+    text = font.render(message, True, FONT_COLOR, BACKGROUND)
+    screen.fill((0, 0, 0), (0, HEIGHT, WIDTH, 100))
+    text_rect = text.get_rect(center=(WIDTH / 2, HEIGHT / 1.7))
+    screen.blit(text, text_rect)
+    pg.display.update()
+
     current_player = 'x'
     current_winner = None
     is_draw = False
@@ -182,6 +192,8 @@ async def main():
                     user_click()
                     
                     if current_winner or is_draw:
+                        draw_status()
+                        time.sleep(3)
                         reset_game()
 
             pg.display.update()
