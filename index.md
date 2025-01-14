@@ -9,7 +9,10 @@
 <img src="images/extraalearn_front.png?raw=true" alt= "ExtraaLearn Analysis"/>
 
 #### Business analysis dashboard in Excel
-<a src="excel/Dashboard_1.xlsx">
+
+<a href="https://docs.google.com/spreadsheets/d/1dEvfPtSTKQoZ4mTuVVTSs9xJrvX_JrDw/edit?usp=drive_link&ouid=113907075805256696266&rtpof=true&sd=true">
+    <img src="images\dashboard_xls.png">
+</a>
 ---
 
 ### Work projects
