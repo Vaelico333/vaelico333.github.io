@@ -13,7 +13,7 @@
 <a href="https://docs.google.com/spreadsheets/d/1dEvfPtSTKQoZ4mTuVVTSs9xJrvX_JrDw/edit?usp=drive_link&ouid=113907075805256696266&rtpof=true&sd=true">
     <img src="images\dashboard_xls.png">
 </a>
-__Please download the file and run it on Excel, it won't work properly on Google Sheets.__
+_*Please download the file and run it on Excel, it won't work properly on Google Sheets._
 
 ---
 
