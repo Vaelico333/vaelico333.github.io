@@ -1,4 +1,4 @@
-# Dario Zoreda'a Developer Portfolio
+# Dario Zoreda's Developer Portfolio
 
 This is my ever ongoing portfolio page! I will continue updating it with new projects to show my skills and knowledge.
 
