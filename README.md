@@ -18,6 +18,8 @@ While I returned to my previous job of production assistant, I took on a course 
 
 And so, for a year, due to some improvement in my production technician career, I kept a low profile as a developer, but the right time came after I met a very special person, who became my girlfriend shortly after. Now I'm studying Data Analytics and Power AI with [thePower](https://app.thepower.education/), and I'm starting to do some freelance projects: more on that soon.
 
+I just started a new and exciting course: python and machine learning with Deusto. On that course, I'll get python certification as well as training on real companies.
+
 ---
 
 ## My goal & purpose
