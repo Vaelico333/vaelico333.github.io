@@ -159,6 +159,7 @@ def reset_game():
     elif is_draw:
         message = "Game Draw!"
 
+    time.sleep(7)
     font = pg.font.Font(None, FONT_SIZE)
     text = font.render(message, True, FONT_COLOR, BACKGROUND)
     screen.fill((0, 0, 0), (0, HEIGHT, WIDTH, 100))
