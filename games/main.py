@@ -193,7 +193,7 @@ async def main():
                     
                     if current_winner or is_draw:
                         draw_status()
-                        time.sleep(3)
+                        time.sleep(7)
                         reset_game()
 
             pg.display.update()
