@@ -17,6 +17,7 @@ WIN_LINE_COLOR = (250, 70, 70)
 GRID_LINE_WIDTH = 7
 WIN_LINE_WIDTH = 4
 FONT_SIZE = 30
+RESET_EVENT = pg.USEREVENT + 1
 
 # Global variables
 screen = pg.display.set_mode((WIDTH, HEIGHT))
@@ -28,6 +29,8 @@ current_player = 'x'
 current_winner = None
 is_draw = False
 grid = [[None]*3, [None]*3, [None]*3]
+
+reset_scheduled = False
 
 def game_initiating_window():
     """Draws the initial game state."""
@@ -152,21 +155,8 @@ def user_click():
         check_win()
 
 def reset_game():
-    """Restarts the game on win or draw."""
+    """Restart the game immediately (no blocking)."""
     global grid, current_winner, current_player, is_draw
-    if current_winner:
-        message = current_winner.upper() + " won!"
-    elif is_draw:
-        message = "Game Draw!"
-
-    time.sleep(7)
-    font = pg.font.Font(None, FONT_SIZE)
-    text = font.render(message, True, FONT_COLOR, BACKGROUND)
-    screen.fill((0, 0, 0), (0, HEIGHT, WIDTH, 100))
-    text_rect = text.get_rect(center=(WIDTH / 2, HEIGHT / 1.7))
-    screen.blit(text, text_rect)
-    pg.display.update()
-
     current_player = 'x'
     current_winner = None
     is_draw = False
@@ -177,35 +167,43 @@ async def main():
     """
     Entry point to initialize and start the test4.5 game.
     """
+    global reset_scheduled
     game_initiating_window()
-    # Potentially other setup calls here...
-    # Example of a loop or function in test4.5 to start the game:
-    # test4_5.run_game_loop()
-    run = True
-    while run:
-# Main game loop
-        while True:
+
+    # Main game loop
+    while True:
+        try:
             for event in pg.event.get():
                 if event.type == pg.QUIT:
                     pg.quit()
                     sys.exit()
                 elif event.type == pg.MOUSEBUTTONDOWN:
                     user_click()
-                    
+                    # si hay ganador/empate, mostramos estado y programamos reinicio
                     if current_winner or is_draw:
                         draw_status()
-                        time.sleep(7)
-                        reset_game()
+                        if not reset_scheduled:
+                            pg.time.set_timer(RESET_EVENT, 7000)  # 7000 ms
+                            reset_scheduled = True
+                elif event.type == RESET_EVENT:
+                    # detener timer y reiniciar
+                    pg.time.set_timer(RESET_EVENT, 0)
+                    reset_scheduled = False
+                    reset_game()
 
             pg.display.update()
             clock.tick(FPS)
-
-    
             await asyncio.sleep(0)
-        
+        except Exception as e:
+            # log para depuración en pygbag (se verá en la consola)
+            print("Unhandled error in main loop:", repr(e))
+            # no romper aquí; puedes optar por reiniciar o salir
+            raise
+
 asyncio.run(main())
 
 if __name__ == "__main__":
-    main()
+    import asyncio
+    asyncio.run(main())
 
 
