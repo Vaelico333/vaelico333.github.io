@@ -15,6 +15,11 @@
 </a>
 _*Please download the file and run it on Excel, it won't work properly on Google Sheets._
 
+#### Wine quality study
+
+<a href="/gl/prueba_mod7_DZG.html">
+    <img src="images/calidad_vino.png">
+</a>
 ---
 
 ### Work projects
