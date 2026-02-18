@@ -21,6 +21,14 @@ _*Please download the file and run it on Excel, it won't work properly on Google
 <a href="/gl/prueba_mod7_DZG.html">
     <img src="images/calidad_vino.png">
 </a>
+
+### App for synthetic data creation and analysis
+
+<a href="https://drive.google.com/file/d/1YWJ2tx1j1lj6hpa0lUCA7CevUgd51wPF/view?usp=drive_link">
+    <img src="images/app_hospitalizacion_gif.gif">
+</a>
+<a href="https://github.com/Vaelico333/Proyecto-final-machine-learning-en-Deusto">_GitHub repository for source code_</a>
+
 ---
 
 ## Work projects
