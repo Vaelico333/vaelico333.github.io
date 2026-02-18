@@ -22,7 +22,7 @@ _*Please download the file and run it on Excel, it won't work properly on Google
     <img src="images/calidad_vino.png">
 </a>
 
-### App for synthetic data creation and analysis
+### Desktop app for synthetic data creation and analysis
 
 <a href="https://drive.google.com/file/d/1YWJ2tx1j1lj6hpa0lUCA7CevUgd51wPF/view?usp=drive_link">
     <img src="images/app_hospitalizacion_gif.gif">
