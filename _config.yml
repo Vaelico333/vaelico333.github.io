@@ -2,9 +2,20 @@ title: Zoreda Data & Tasks  # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>  
-  I build systems to analyze data and automate tasks.
-  If the stack you need includes Python, count me in. 
-  Python · SQL · Pandas · Scikit-learn · Power BI · Data Visualization · Django · PyQt6
+  <b>Darío Zoreda</b> <br>
+  I build systems to analyze data and automate tasks.<br>
+  If the stack you need includes Python, count me in. <br>
+
+  <span class="skill-tags" aria-label="Skills">
+    <span class="skill-tag">Python</span>
+    <span class="skill-tag">SQL</span>
+    <span class="skill-tag">Pandas</span>
+    <span class="skill-tag">Scikit-learn</span>
+    <span class="skill-tag">Power BI</span>
+    <span class="skill-tag">Data Visualization</span>
+    <span class="skill-tag">Django</span>
+    <span class="skill-tag">PyQt6</span>
+  </span>
   <br><br>
    
   

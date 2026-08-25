@@ -1,0 +1,26 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.profile-description {
+   .skill-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.45rem;
+      margin-top: 1rem;
+   }
+
+   .skill-tag {
+      display: inline-block;
+      padding: 0.3rem 0.65rem;
+      border: 1px solid #d1d9e0;
+      border-radius: 0.45rem;
+      background: #f4f7f9;
+      color: #36454f;
+      font-size: 0.78rem;
+      font-weight: 600;
+      line-height: 1.2;
+      white-space: nowrap;
+   }
+}
