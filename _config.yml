@@ -5,24 +5,34 @@ description: > # your text below (remove <br> elements if you don't need line br
   <b>Darío Zoreda</b> <br>
   I build systems to analyze data and automate tasks.<br>
 
-  <span class="skill-tags" aria-label="Skills">
-    <span class="skill-tag">Python</span>
-    <span class="skill-tag">Jupyter</span>
-    <span class="skill-tag">Seaborn</span>
-    <span class="skill-tag">Numpy</span>
-    <span class="skill-tag">Pandas</span>
-    <span class="skill-tag">Scikit-learn</span>
-    <span class="skill-tag">Matplotlib</span>
-    <span class="skill-tag">SQL</span>
-    <span class="skill-tag">Google Sheets</span>
-    <span class="skill-tag">Excel</span>
-    <span class="skill-tag">Flask</span>
-    <span class="skill-tag">Django</span>
-    <span class="skill-tag">PyQt6</span>
+  <span class="tech-tags" aria-label="Technologies">
+    <span class="tech-tag">Python</span>
+    <span class="tech-tag">Jupyter</span>
+    <span class="tech-tag">Seaborn</span>
+    <span class="tech-tag">Numpy</span>
+    <span class="tech-tag">Pandas</span>
+    <span class="tech-tag">Scikit-learn</span>
+    <span class="tech-tag">Matplotlib</span>
+    <span class="tech-tag">SQL</span>
+    <span class="tech-tag">Google Sheets</span>
+    <span class="tech-tag">Excel</span>
+    <span class="tech-tag">Flask</span>
+    <span class="tech-tag">Django</span>
+    <span class="tech-tag">PyQt6</span>
+    <span class="tech-tag">GitHub</span>
+    <span class="tech-tag">Docker</span>
   </span>
   <br><br>
-   
-  
+  <span class="skill-tags" aria-label="Skills">
+    <span class="skill-tag">Data Analysis</span>
+    <span class="skill-tag">Machine Learning</span>
+    <span class="skill-tag">Data Visualization</span>
+    <span class="skill-tag">Python Programming</span>
+    <span class="skill-tag">SQL</span>
+    <span class="skill-tag">Web Development</span>
+    <span class="skill-tag">Desktop Applications</span>
+  </span>
+
 show_downloads: false
 
 remote_theme: pages-themes/minimal@v0.2.0
