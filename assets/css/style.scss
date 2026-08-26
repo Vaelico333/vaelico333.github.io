@@ -9,6 +9,8 @@
       flex-wrap: wrap;
       gap: 0.45rem;
       margin-top: 1rem;
+      border-radius: 0.45rem;
+      background: #abcadf;
    }
 
    .skill-tag {
@@ -18,6 +20,27 @@
       border-radius: 0.45rem;
       background: #75afd6;
       color: #36454f;
+      font-size: 0.78rem;
+      font-weight: 600;
+      line-height: 1.2;
+      white-space: nowrap;
+   }
+   .tech-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.45rem;
+      margin-top: 1rem;
+      border-radius: 0.45rem;
+      background: #abdfc3;
+   }
+
+   .tech-tag {
+      display: inline-block;
+      padding: 0.3rem 0.65rem;
+      border: 1px solid #d1d9e0;
+      border-radius: 0.45rem;
+      background: #2d945d;
+      color: #8c9919;
       font-size: 0.78rem;
       font-weight: 600;
       line-height: 1.2;

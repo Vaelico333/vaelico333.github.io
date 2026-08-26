@@ -12,7 +12,7 @@
 ### Business analysis dashboard in Excel
 
 <a href="https://docs.google.com/spreadsheets/d/1dEvfPtSTKQoZ4mTuVVTSs9xJrvX_JrDw/edit?usp=drive_link&ouid=113907075805256696266&rtpof=true&sd=true">
-    <img src="images\dashboard_xls.png" alt="Business analysis dashboard">
+    <img src="images/dashboard_xls.png" alt="Business analysis dashboard">
 </a>
 _*Please download the file and run it on Excel, it won't work properly on Google Sheets._
 
@@ -44,3 +44,17 @@ _*Please download the file and run it on Excel, it won't work properly on Google
 </a>
 
 ---
+
+## Proyecto final ML en Deusto -> PROMOCIONAR
+
+## Proyecto final Python en Deusto
+
+## Excel Dashboard: global music streaming (https://github.com/Vaelico333/Excel_Dashboard/blob/main/Global_Music_Streaming_Listener_Preferences.csv)
+
+## Excel dashboard: pedidos (D:\thePower\Dashboard+guiado+Excel\Dashboard_1.xlsx) -> CREAR REPOSITORIO
+
+## Excel dashboard: Netflix ("D:\thePower\EDA+con+Excel\BBDD_Usiarios_Netflix_jun.xlsm") -> CREAR REPO
+
+## Google sheets dashboard: perfumes (https://docs.google.com/spreadsheets/d/13H6jlL5q8THAymECVlUGRbaSOid6pj7PxMjE-JGyV0s/edit?usp=drive_link)
+
+## Google sheets dashboard: telecomunicaciones (https://docs.google.com/spreadsheets/d/1NiCbn9hxk-UBleZgCb4KTxXYC5ve5bipirudZv7pRvQ/edit?usp=drive_link)

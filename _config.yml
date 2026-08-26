@@ -4,15 +4,19 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>  
   <b>Darío Zoreda</b> <br>
   I build systems to analyze data and automate tasks.<br>
-  If the stack you need includes Python, count me in. <br>
 
   <span class="skill-tags" aria-label="Skills">
     <span class="skill-tag">Python</span>
-    <span class="skill-tag">SQL</span>
+    <span class="skill-tag">Jupyter</span>
+    <span class="skill-tag">Seaborn</span>
+    <span class="skill-tag">Numpy</span>
     <span class="skill-tag">Pandas</span>
     <span class="skill-tag">Scikit-learn</span>
-    <span class="skill-tag">Power BI</span>
-    <span class="skill-tag">Data Visualization</span>
+    <span class="skill-tag">Matplotlib</span>
+    <span class="skill-tag">SQL</span>
+    <span class="skill-tag">Google Sheets</span>
+    <span class="skill-tag">Excel</span>
+    <span class="skill-tag">Flask</span>
     <span class="skill-tag">Django</span>
     <span class="skill-tag">PyQt6</span>
   </span>
