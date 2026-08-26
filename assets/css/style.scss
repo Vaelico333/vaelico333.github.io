@@ -3,6 +3,20 @@
 
 @import "{{ site.theme }}";
 
+@media screen and (min-width: 961px) {
+   .wrapper {
+      width: min(1200px, calc(100% - 4rem));
+   }
+
+   header {
+      width: 330px;
+   }
+
+   section {
+      width: calc(100% - 380px);
+   }
+}
+
 .profile-description {
    .skill-tags {
       display: flex;
