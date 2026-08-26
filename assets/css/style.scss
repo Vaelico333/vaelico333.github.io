@@ -11,6 +11,7 @@
       margin-top: 1rem;
       border-radius: 0.45rem;
       background: #abcadf;
+      padding: 0.5rem;
    }
 
    .skill-tag {
@@ -24,6 +25,7 @@
       font-weight: 600;
       line-height: 1.2;
       white-space: nowrap;
+      text-align: center;
    }
    .tech-tags {
       display: flex;
@@ -32,6 +34,7 @@
       margin-top: 1rem;
       border-radius: 0.45rem;
       background: #abdfc3;
+      padding: 0.5rem;
    }
 
    .tech-tag {
@@ -40,10 +43,11 @@
       border: 1px solid #d1d9e0;
       border-radius: 0.45rem;
       background: #2d945d;
-      color: #8c9919;
+      color: #323607;
       font-size: 0.78rem;
       font-weight: 600;
       line-height: 1.2;
       white-space: nowrap;
+      text-align: center;
    }
 }
