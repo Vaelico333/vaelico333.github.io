@@ -1,7 +1,7 @@
-# Selected Projects
+a# Selected Projects
 
 ⭐ Featured
-    Machine Learning Desktop Application
+    <a href="/projects/machine-learning-desktop-application.md">Machine Learning Desktop Application</a>
 
 ## Data Analysis
 
