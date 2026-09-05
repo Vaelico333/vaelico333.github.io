@@ -3,8 +3,8 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>  
   <b>Darío Zoreda</b> <br>
-  I build systems to analyze data and automate tasks.<br>
-
+  Python developer focused on data analysis, machine learning and automation. I build data-driven applications and tools that turn complex workflows into usable software.
+  
   <span class="tech-tags" aria-label="Technologies">
     <span class="tech-tag">Python</span>
     <span class="tech-tag">Jupyter</span>
