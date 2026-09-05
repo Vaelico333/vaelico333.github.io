@@ -1,6 +1,27 @@
-# Portfolio
+# Selected Projects
 
----
+⭐ Featured
+    Machine Learning Desktop Application
+
+## Data Analysis
+
+    ExtraaLearn
+    Wine Quality
+    Excel dashboards
+
+## Python & Software
+
+    Python Desktop Application
+    ...
+
+## Web Development
+
+    ...
+
+## Experiments & Fun
+
+    Games
+
 
 ## Education projects
 
