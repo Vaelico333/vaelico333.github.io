@@ -1,4 +1,4 @@
-a# Selected Projects
+# Selected Projects
 
 ⭐ Featured
     <a href="/projects/machine-learning-desktop-application.md">Machine Learning Desktop Application</a>
