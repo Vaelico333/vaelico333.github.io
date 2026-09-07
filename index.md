@@ -5,22 +5,22 @@
 
 ## Data Analysis
 
-<a href="gl\Learner2B-2BCode2B-2BCustomers%2BPrediction.html">ExtraaLearn: Online School Analysis</a>
-<a href="\gl\prueba_mod7_DZG.html">Wine Quality Prediction</a>
-<a href="projects\excel-gs-dashboards.md">Excel & Google sheets dashboards</a>
+- <a href="gl\Learner2B-2BCode2B-2BCustomers%2BPrediction.html">ExtraaLearn: Online School Analysis</a>  
+- <a href="\gl\prueba_mod7_DZG.html">Wine Quality Prediction</a>  
+- <a href="projects\excel-gs-dashboards.md">Excel & Google sheets dashboards</a>  
 
 ## Python & Software
 
-<a href="/projects/machine-learning-desktop-application.html">Python Desktop Application</a>
+- <a href="/projects/machine-learning-desktop-application.html">Python Desktop Application</a>
     ...
 
 ## Web Development
 
-<a href="https://github.com/Vaelico333/Proyecto-final-python-en-Deusto">Flask web with users and address book functionality</a>
+- <a href="https://github.com/Vaelico333/Proyecto-final-python-en-Deusto">Flask web with users and address book functionality</a>
 
 ## Experiments & Fun
 
-<a href="/games.html">
+- <a href="/games.html">
 Games</a>
 
 ---
