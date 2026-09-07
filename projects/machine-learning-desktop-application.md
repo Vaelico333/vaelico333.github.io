@@ -4,7 +4,7 @@ layout: default
 title: Machine Learning Desktop Application
 ---
 
-<div class="project-page">
+<div class="project-page" markdown="1">
 
 <p class="project-kicker">FEATURED PROJECT · MACHINE LEARNING · PYTHON</p>
 
@@ -183,4 +183,6 @@ The complete source code, example models, metadata and documentation are availab
 </p>
 
 <p><a href="{{ '/' | relative_url }}">← Back to portfolio</a></p>
+
+</div>
 
