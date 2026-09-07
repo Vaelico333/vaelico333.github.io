@@ -110,16 +110,7 @@
    text-align: center;
 }
 
-.project-tech-tags {
-   display: flex;
-   flex-wrap: wrap;
-   gap: 0.45rem;
-   margin: 1rem 0 1.5rem;
-   background: #2d945d; 
-   color: #e1e4bb;
-}
-
-.project-skill-tag {
+.project-skills-tag {
    display: inline-block;
    padding: 0.3rem 0.65rem;
    border: 1px solid #d1d9e0;
@@ -133,16 +124,9 @@
    text-align: center;
 }
 
-.project-skills-tags {
-   display: flex;
-   flex-wrap: wrap;
-   gap: 0.45rem;
-   margin: 1rem 0 1.5rem;
-   color: #36454f;
-}
 .project-skills-tags a,
 .project-tech-tags a {
-   color: inherit;
+   color: #e1e4bb;
 }
 
 .project-tags span {
