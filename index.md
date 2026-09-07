@@ -2,6 +2,8 @@
 
 ## ⭐ Featured  
 <a href="/projects/machine-learning-desktop-application.html">Machine Learning Desktop Application</a>
+<a href="/projects/machine-learning-desktop-application.html">
+    <img src="images\app_hosp_eval_xgb.png"></a>
 <div class="project-tags">
 <span><a href="https://www.python.org/">Python</a></span>
 <span><a href="https://pypi.org/project/PyQt5/">PyQt5</a></span>
