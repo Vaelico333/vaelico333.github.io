@@ -20,14 +20,14 @@ A desktop application built with **Python and PyQt5** that takes the user throug
 </p>
 
 <div class="project-tags">
-<span>Python</span>
-<span>PyQt5</span>
-<span>Pandas</span>
-<span>NumPy</span>
-<span>Scikit-learn</span>
-<span>XGBoost</span>
-<span>Matplotlib</span>
-<span>Seaborn</span>
+<span><a href="https://www.python.org/">Python</a></span>
+<span><a href="https://pypi.org/project/PyQt5/">PyQt5</a></span>
+<span><a href="https://pandas.pydata.org/">Pandas</a></span>
+<span><a href="https://numpy.org/">NumPy</a></span>
+<span><a href="https://scikit-learn.org/stable/">Scikit-learn</a></span>
+<span><a href="https://xgboost.ai/">XGBoost</a></span>
+<span><a href="https://matplotlib.org/">Matplotlib</a></span>
+<span><a href="https://seaborn.pydata.org/">Seaborn</a></span>
 </div>
 
 <img class="project-hero-image" src="{{ '/images/app_hospitalizacion_gif.gif' | relative_url }}" alt="Machine learning desktop application">
