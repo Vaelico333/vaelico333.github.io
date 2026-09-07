@@ -21,13 +21,11 @@ title: index
 <span class="project-tech-tag"><a href="https://matplotlib.org/">Matplotlib</a></span>
 <span class="project-tech-tag"><a href="https://seaborn.pydata.org/">Seaborn</a></span>
 </span>
-<span class="project-skills-tags">
 <span class="project-skills-tag">Python Programming</span>
 <span class="project-skills-tag">Desktop Applications</span>
 <span class="project-skills-tag">Machine Learning</span>
 <span class="project-skills-tag">Data Analysis</span>
 <span class="project-skills-tag">Data Visualization</span>
-</span>
 
 ## Data Analysis
 
