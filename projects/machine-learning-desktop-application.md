@@ -185,4 +185,3 @@ The complete source code, example models, metadata and documentation are availab
 <p><a href="{{ '/' | relative_url }}">← Back to portfolio</a></p>
 
 </div>
-
