@@ -12,6 +12,12 @@
 <span><a href="https://matplotlib.org/">Matplotlib</a></span>
 <span><a href="https://seaborn.pydata.org/">Seaborn</a></span>
 </div>
+<div class="project-tags">
+<span>Python Programming</span>
+<span>Desktop Applications</span>
+<span>Machine Learning</span>
+<span>Data Analysis</span>
+<span>Data Visualization</span>
 
 ## Data Analysis
 
