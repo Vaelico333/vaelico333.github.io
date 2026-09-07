@@ -63,7 +63,7 @@
       border: 1px solid #d1d9e0;
       border-radius: 0.45rem;
       background: #2d945d;
-      color: #323607;
+      color: #747566;
       font-size: 0.78rem;
       font-weight: 600;
       line-height: 1.2;
@@ -96,13 +96,25 @@
    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.12);
 }
 
-.project-tags {
+.project-tech-tags {
    display: flex;
    flex-wrap: wrap;
    gap: 0.45rem;
    margin: 1rem 0 1.5rem;
+   background: #2d945d; 
+   color: #747566;
 }
-.project-tags a {
+
+.project-skills-tags {
+   display: flex;
+   flex-wrap: wrap;
+   gap: 0.45rem;
+   margin: 1rem 0 1.5rem;
+   background: #75afd6;
+   color: #36454f;
+}
+.project-skills-tags a,
+.project-tech-tags a {
    color: inherit;
 }
 
