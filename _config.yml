@@ -23,7 +23,6 @@ description: > # your text below (remove <br> elements if you don't need line br
     <span class="tech-tag">Docker</span>
     <span class="tech-tag">Pygame</span>
   </span>
-  <br>
   <span class="skill-tags" aria-label="Skills">
     <span class="skill-tag">Data Analysis</span>
     <span class="skill-tag">Machine Learning</span>
