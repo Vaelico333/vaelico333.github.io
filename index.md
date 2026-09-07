@@ -11,7 +11,7 @@ title: index
     <img class="index-project-image" src="{{ '/images/app_hosp_eval_xgb.png' | relative_url }}" alt="Machine Learning Application Project">
 </a>
 
-<div class="project-tags">
+<div class="project-tech-tags">
 <span><a href="https://www.python.org/">Python</a></span>
 <span><a href="https://pypi.org/project/PyQt5/">PyQt5</a></span>
 <span><a href="https://pandas.pydata.org/">Pandas</a></span>
@@ -21,7 +21,7 @@ title: index
 <span><a href="https://matplotlib.org/">Matplotlib</a></span>
 <span><a href="https://seaborn.pydata.org/">Seaborn</a></span>
 </div>
-<div class="project-tags">
+<div class="project-skills-tags">
 <span>Python Programming</span>
 <span>Desktop Applications</span>
 <span>Machine Learning</span>

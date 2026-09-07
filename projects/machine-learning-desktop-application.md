@@ -19,7 +19,7 @@ A desktop application built with **Python and PyQt5** that takes the user throug
 <a class="project-button secondary" href="https://drive.google.com/file/d/1YWJ2tx1j1lj6hpa0lUCA7CevUgd51wPF/view?usp=drive_link">Download / Demo</a>
 </p>
 
-<div class="project-tags">
+<div class="project-tech-tags">
 <span><a href="https://www.python.org/">Python</a></span>
 <span><a href="https://pypi.org/project/PyQt5/">PyQt5</a></span>
 <span><a href="https://pandas.pydata.org/">Pandas</a></span>
