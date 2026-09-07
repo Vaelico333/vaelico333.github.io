@@ -30,7 +30,7 @@ A desktop application built with **Python and PyQt5** that takes the user throug
 <span>Seaborn</span>
 </div>
 
-![Machine Learning desktop application]({{ '/images/app_hospitalizacion_gif.gif' | relative_url }})
+<img src="images\app_hospitalizacion_gif.gif">
 
 ---
 
