@@ -2,6 +2,16 @@
 
 ## ⭐ Featured  
 <a href="/projects/machine-learning-desktop-application.html">Machine Learning Desktop Application</a>
+<div class="project-tags">
+<span><a href="https://www.python.org/">Python</a></span>
+<span><a href="https://pypi.org/project/PyQt5/">PyQt5</a></span>
+<span><a href="https://pandas.pydata.org/">Pandas</a></span>
+<span><a href="https://numpy.org/">NumPy</a></span>
+<span><a href="https://scikit-learn.org/stable/">Scikit-learn</a></span>
+<span><a href="https://xgboost.ai/">XGBoost</a></span>
+<span><a href="https://matplotlib.org/">Matplotlib</a></span>
+<span><a href="https://seaborn.pydata.org/">Seaborn</a></span>
+</div>
 
 ## Data Analysis
 
@@ -25,15 +35,12 @@ Games</a>
 
 ---
 
-## Proyecto final ML en Deusto -> PROMOCIONAR
-
-## Proyecto final Python en Deusto
 
 ## Excel Dashboard: global music streaming (https://github.com/Vaelico333/Excel_Dashboard/blob/main/Global_Music_Streaming_Listener_Preferences.csv)
 
-## Excel dashboard: pedidos (D:\thePower\Dashboard+guiado+Excel\Dashboard_1.xlsx) -> CREAR REPOSITORIO
+## Excel dashboard: pedidos (D:\thePower\Dashboard+guiado+Excel\Dashboard_1.xlsx) -> ESCRIBIR README
 
-## Excel dashboard: Netflix ("D:\thePower\EDA+con+Excel\BBDD_Usiarios_Netflix_jun.xlsm") -> CREAR REPO
+## Excel dashboard: Netflix ("D:\thePower\EDA+con+Excel\BBDD_Usiarios_Netflix_jun.xlsm") -> ESCRIBIR README
 
 ## Google sheets dashboard: perfumes (https://docs.google.com/spreadsheets/d/13H6jlL5q8THAymECVlUGRbaSOid6pj7PxMjE-JGyV0s/edit?usp=drive_link)
 
