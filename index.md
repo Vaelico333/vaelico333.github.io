@@ -43,7 +43,7 @@ title: index
     <img class="index-project-image" src="{{ '/images/calidad_vino.png' | relative_url }}" alt="Wine Quality Prediction Project">
 </a>
 
-#### <a href="projects\excel-gs-dashboards.md">Excel & Google sheets dashboards</a>  
+#### <a href="projects\excel-gs-dashboards.html">Excel & Google sheets dashboards</a>  
 
 <a href="/projects/excel-gs-dashboards.html">
     <img class="index-project-image" src="{{ '/images/dashboard_xls.png' | relative_url }}" alt="Various Excel and Google Sheets Dashboards">
@@ -55,7 +55,7 @@ title: index
 
 ## Web Development
 
-#### <a href="https://github.com/Vaelico333/Proyecto-final-python-en-Deusto">Flask web with users and address book functionality</a>
+#### <a href="/projects/web-dev.html">Flask web with users and address book functionality</a>
 
 <a href="/projects/web-dev.html">
     <img class="index-project-image" src="{{ '/images/flask_web_address.png' | relative_url }}" alt="Web App with Flask">
