@@ -1,2 +1,8 @@
-# Python
--> lista de proyectos con Python
+---
+layout: default
+title: Python
+---
+
+## Python
+
+Lista de proyectos con Python.
