@@ -2,7 +2,7 @@
 
 layout: default
 title: Machine Learning Desktop Application
--------------------------------------------
+---
 
 <div class="project-page">
 
@@ -30,7 +30,7 @@ A desktop application built with **Python and PyQt5** that takes the user throug
 <span>Seaborn</span>
 </div>
 
-<img src="images\app_hospitalizacion_gif.gif">
+<img class="project-hero-image" src="{{ '/images/app_hospitalizacion_gif.gif' | relative_url }}" alt="Machine learning desktop application">
 
 ---
 
