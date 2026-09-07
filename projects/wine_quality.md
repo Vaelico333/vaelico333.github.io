@@ -2,4 +2,4 @@
 layout: default
 title: Extraalearn analysis
 ---
-Excel and Google Sheets dashboards.
+Wine quality prediction.

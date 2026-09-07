@@ -2,4 +2,4 @@
 layout: default
 title: Extraalearn analysis
 ---
-Excel and Google Sheets dashboards.
+Web development projects.

@@ -2,4 +2,4 @@
 layout: default
 title: Extraalearn analysis
 ---
-Excel and Google Sheets dashboards.
+Analysis of the online school.

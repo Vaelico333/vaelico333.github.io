@@ -30,22 +30,44 @@ title: index
 
 ## Data Analysis
 
-- <a href="gl\Learner2B-2BCode2B-2BCustomers%2BPrediction.html">ExtraaLearn: Online School Analysis</a>  
-- <a href="\gl\prueba_mod7_DZG.html">Wine Quality Prediction</a>  
-- <a href="projects\excel-gs-dashboards.md">Excel & Google sheets dashboards</a>  
+#### <a href="gl\Learner2B-2BCode2B-2BCustomers%2BPrediction.html">ExtraaLearn: Online School Analysis</a>  
+
+<a href="/projects/extraalearn.html">
+    <img class="index-project-image" src="{{ '/images/extraalearn_front.png' | relative_url }}" alt="Online School Analysis Project">
+</a>
+
+
+#### <a href="\gl\prueba_mod7_DZG.html">Wine Quality Prediction</a>  
+
+<a href="/projects/wine_quality.html">
+    <img class="index-project-image" src="{{ '/images/calidad_vino.png' | relative_url }}" alt="Wine Quality Prediction Project">
+</a>
+
+#### <a href="projects\excel-gs-dashboards.md">Excel & Google sheets dashboards</a>  
+
+<a href="/projects/excel-gs-dashboards.html">
+    <img class="index-project-image" src="{{ '/images/dashboard_xls.png' | relative_url }}" alt="Various Excel and Google Sheets Dashboards">
+</a>
 
 ## Python & Software
 
-- <a href="/projects/machine-learning-desktop-application.html">Python Desktop Application</a>
+#### <a href="/projects/machine-learning-desktop-application.html">Python Desktop Application</a>
 
 ## Web Development
 
-- <a href="https://github.com/Vaelico333/Proyecto-final-python-en-Deusto">Flask web with users and address book functionality</a>
+#### <a href="https://github.com/Vaelico333/Proyecto-final-python-en-Deusto">Flask web with users and address book functionality</a>
+
+<a href="/projects/web-dev.html">
+    <img class="index-project-image" src="{{ '/images/flask_web_address.png' | relative_url }}" alt="Web App with Flask">
+</a>
 
 ## Experiments & Fun
 
-- <a href="/games.html">
-Games</a>
+#### <a href="/projects/games.html">Games</a>
+
+<a href="/projects/games.html">
+    <img class="index-project-image" src="{{ '/images/tt_t.png' | relative_url }}" alt="Tick Tack Toe Game">
+</a>
 
 ---
 
