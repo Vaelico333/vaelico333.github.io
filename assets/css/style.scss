@@ -41,6 +41,12 @@
       white-space: nowrap;
       text-align: center;
    }
+
+   .skill-tag a,
+   .tech-tag a {
+      color: inherit;
+   }
+
    .tech-tags {
       display: flex;
       flex-wrap: wrap;
@@ -95,6 +101,9 @@
    flex-wrap: wrap;
    gap: 0.45rem;
    margin: 1rem 0 1.5rem;
+}
+.project-tags a {
+   color: inherit;
 }
 
 .project-tags span {
