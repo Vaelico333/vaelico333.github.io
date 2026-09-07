@@ -11,23 +11,23 @@ title: index
     <img class="index-project-image" src="{{ '/images/app_hosp_eval_xgb.png' | relative_url }}" alt="Machine Learning Application Project">
 </a>
 
-<div class="project-tech-tags">
-<span><a href="https://www.python.org/">Python</a></span>
-<span><a href="https://pypi.org/project/PyQt5/">PyQt5</a></span>
-<span><a href="https://pandas.pydata.org/">Pandas</a></span>
-<span><a href="https://numpy.org/">NumPy</a></span>
-<span><a href="https://scikit-learn.org/stable/">Scikit-learn</a></span>
-<span><a href="https://xgboost.ai/">XGBoost</a></span>
-<span><a href="https://matplotlib.org/">Matplotlib</a></span>
-<span><a href="https://seaborn.pydata.org/">Seaborn</a></span>
-</div>
-<div class="project-skills-tags">
-<span>Python Programming</span>
-<span>Desktop Applications</span>
-<span>Machine Learning</span>
-<span>Data Analysis</span>
-<span>Data Visualization</span>
-</div>
+<span class="project-tech-tags">
+<span class="project-tech-tag"><a href="https://www.python.org/">Python</a></span>
+<span class="project-tech-tag"><a href="https://pypi.org/project/PyQt5/">PyQt5</a></span>
+<span class="project-tech-tag"><a href="https://pandas.pydata.org/">Pandas</a></span>
+<span class="project-tech-tag"><a href="https://numpy.org/">NumPy</a></span>
+<span class="project-tech-tag"><a href="https://scikit-learn.org/stable/">Scikit-learn</a></span>
+<span class="project-tech-tag"><a href="https://xgboost.ai/">XGBoost</a></span>
+<span class="project-tech-tag"><a href="https://matplotlib.org/">Matplotlib</a></span>
+<span class="project-tech-tag"><a href="https://seaborn.pydata.org/">Seaborn</a></span>
+</span>
+<span class="project-skills-tags">
+<span class="project-skills-tag">Python Programming</span>
+<span class="project-skills-tag">Desktop Applications</span>
+<span class="project-skills-tag">Machine Learning</span>
+<span class="project-skills-tag">Data Analysis</span>
+<span class="project-skills-tag">Data Visualization</span>
+</span>
 
 ## Data Analysis
 

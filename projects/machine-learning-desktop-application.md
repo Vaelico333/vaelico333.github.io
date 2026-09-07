@@ -19,16 +19,16 @@ A desktop application built with **Python and PyQt5** that takes the user throug
 <a class="project-button secondary" href="https://drive.google.com/file/d/1YWJ2tx1j1lj6hpa0lUCA7CevUgd51wPF/view?usp=drive_link">Download / Demo</a>
 </p>
 
-<div class="project-tech-tags">
-<span><a href="https://www.python.org/">Python</a></span>
-<span><a href="https://pypi.org/project/PyQt5/">PyQt5</a></span>
-<span><a href="https://pandas.pydata.org/">Pandas</a></span>
-<span><a href="https://numpy.org/">NumPy</a></span>
-<span><a href="https://scikit-learn.org/stable/">Scikit-learn</a></span>
-<span><a href="https://xgboost.ai/">XGBoost</a></span>
-<span><a href="https://matplotlib.org/">Matplotlib</a></span>
-<span><a href="https://seaborn.pydata.org/">Seaborn</a></span>
-</div>
+<span class="project-tech-tags">
+<span class="project-tech-tag"><a href="https://www.python.org/">Python</a></span>
+<span class="project-tech-tag"><a href="https://pypi.org/project/PyQt5/">PyQt5</a></span>
+<span class="project-tech-tag"><a href="https://pandas.pydata.org/">Pandas</a></span>
+<span class="project-tech-tag"><a href="https://numpy.org/">NumPy</a></span>
+<span class="project-tech-tag"><a href="https://scikit-learn.org/stable/">Scikit-learn</a></span>
+<span class="project-tech-tag"><a href="https://xgboost.ai/">XGBoost</a></span>
+<span class="project-tech-tag"><a href="https://matplotlib.org/">Matplotlib</a></span>
+<span class="project-tech-tag"><a href="https://seaborn.pydata.org/">Seaborn</a></span>
+</span>
 
 <img class="project-hero-image" src="{{ '/images/app_hospitalizacion_gif.gif' | relative_url }}" alt="Machine learning desktop application">
 

@@ -63,7 +63,7 @@
       border: 1px solid #d1d9e0;
       border-radius: 0.45rem;
       background: #2d945d;
-      color: #747566;
+      color: #e1e4bb;
       font-size: 0.78rem;
       font-weight: 600;
       line-height: 1.2;
@@ -96,14 +96,43 @@
    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.12);
 }
 
+.project-tech-tag {
+   display: inline-block;
+   padding: 0.3rem 0.65rem;
+   border: 1px solid #d1d9e0;
+   border-radius: 0.45rem;
+   background: #2d945d;
+   color: #e1e4bb;
+   font-size: 0.78rem;
+   font-weight: 600;
+   line-height: 1.2;
+   white-space: nowrap;
+   text-align: center;
+}
+
 .project-tech-tags {
    display: flex;
    flex-wrap: wrap;
    gap: 0.45rem;
    margin: 1rem 0 1.5rem;
    background: #2d945d; 
-   color: #747566;
+   color: #e1e4bb;
 }
+
+.project-skill-tag {
+   display: inline-block;
+   padding: 0.3rem 0.65rem;
+   border: 1px solid #d1d9e0;
+   border-radius: 0.45rem;
+   background: #75afd6;
+   color: #36454f;
+   font-size: 0.78rem;
+   font-weight: 600;
+   line-height: 1.2;
+   white-space: nowrap;
+   text-align: center;
+}
+
 
 .project-skills-tags {
    display: flex;
