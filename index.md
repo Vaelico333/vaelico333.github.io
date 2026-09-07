@@ -18,6 +18,7 @@
 <span>Machine Learning</span>
 <span>Data Analysis</span>
 <span>Data Visualization</span>
+</div>
 
 ## Data Analysis
 
