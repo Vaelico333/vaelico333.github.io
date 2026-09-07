@@ -3,7 +3,7 @@
 ## ⭐ Featured  
 <a href="/projects/machine-learning-desktop-application.html">Machine Learning Desktop Application</a>
 <a href="/projects/machine-learning-desktop-application.html">
-    <img class="index-project-image" src="{{ 'images\app_hosp_eval_xgb.png' | relative_url }}" alt="Machine Learning Application Project">
+    <img class="index-project-image" src="{{ '/images/app_hosp_eval_xgb.png' | relative_url }}" alt="Machine Learning Application Project">
 </a>
 
 <div class="project-tags">
