@@ -96,6 +96,17 @@
    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.12);
 }
 
+.project-card-index {
+   display: flex;
+   flex-wrap: wrap;
+   gap: 0.45rem;
+   margin-top: 0.5rem;
+   border-radius: 0.45rem;
+   background: #e4b51c;
+   padding: 0.5rem;
+}
+
+
 .project-tech-tag {
    display: inline-block;
    padding: 0.3rem 0.65rem;
