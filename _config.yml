@@ -11,6 +11,7 @@ description: > # your text below (remove <br> elements if you don't need line br
     <span class="tech-tag"><a href="/tags/tech/seaborn.html">Seaborn</a></span>
     <span class="tech-tag"><a href="/tags/tech/numpy.html">Numpy</a></span>
     <span class="tech-tag"><a href="/tags/tech/pandas.html">Pandas</a></span>
+    <span class="tech-tag"><a href="/tags/tech/xgboost.html">XGBoost</a></span>
     <span class="tech-tag"><a href="/tags/tech/scikit-learn.html">Scikit-learn</a></span>
     <span class="tech-tag"><a href="/tags/tech/matplotlib.html">Matplotlib</a></span>
     <span class="tech-tag"><a href="/tags/tech/sql.html">SQL</a></span>
