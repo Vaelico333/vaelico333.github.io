@@ -7,7 +7,7 @@ title: Portfolio
 
 ## ⭐ Featured  
 
-<div class="project-card-index">
+<div class="project-card-index" markdown="1">
 
 #### <a href="/projects/machine-learning-desktop-application.html">Machine Learning Desktop Application</a><br>
 
@@ -36,7 +36,7 @@ title: Portfolio
 
 ## Data Analysis
 
-<div class="project-card-index">
+<div class="project-card-index" markdown="1">
 
 #### <a href="gl\Learner2B-2BCode2B-2BCustomers%2BPrediction.html">ExtraaLearn: Online School Analysis</a>
 
@@ -58,7 +58,7 @@ title: Portfolio
 </a>
 </div>
 
-<div class="project-card-index">
+<div class="project-card-index" markdown="1">
 
 #### <a href="\gl\prueba_mod7_DZG.html">Wine Quality Prediction</a>  
 
@@ -79,7 +79,7 @@ title: Portfolio
 </a>
 </div>
 
-<div class="project-card-index">
+<div class="project-card-index" markdown="1">
 
 #### <a href="projects\excel-gs-dashboards.html">Excel & Google sheets dashboards</a>  
 
@@ -99,7 +99,7 @@ title: Portfolio
 
 ## Python & Software
 
-<div class="project-card-index">
+<div class="project-card-index" markdown="1">
 
 #### <a href="/projects/machine-learning-desktop-application.html">Machine Learning Desktop Application</a><br>
 
@@ -127,7 +127,7 @@ title: Portfolio
 
 ## Web Development
 
-<div class="project-card-index">
+<div class="project-card-index" markdown="1">
 
 #### <a href="/projects/web-dev.html">Flask web with users and address book functionality</a>
 
@@ -154,7 +154,7 @@ title: Portfolio
 
 ## Experiments & Fun
 
-<div class="project-card-index">
+<div class="project-card-index" markdown="1">
 
 #### <a href="/projects/games.html">Games</a>
 
