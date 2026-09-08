@@ -38,7 +38,7 @@ title: Portfolio
 
 <div class="project-card-index" markdown="1">
 
-#### <a href="gl\Learner2B-2BCode2B-2BCustomers%2BPrediction.html">ExtraaLearn: Online School Analysis</a>
+#### <a href="gl\Learner2B-2BCode2B-2BCustomers%2BPrediction.html">ExtraaLearn: Online School Analysis</a><br>
 
 <span class="project-tech-tag"><a href="/tags/tech/python.html">Python</a></span>
 <span class="project-tech-tag"><a href="/tags/tech/jupyter.html">Jupyter</a></span>
@@ -60,7 +60,7 @@ title: Portfolio
 
 <div class="project-card-index" markdown="1">
 
-#### <a href="\gl\prueba_mod7_DZG.html">Wine Quality Prediction</a>  
+#### <a href="\gl\prueba_mod7_DZG.html">Wine Quality Prediction</a><br>
 
 <span class="project-tech-tag"><a href="/tags/tech/python.html">Python</a></span>
 <span class="project-tech-tag"><a href="/tags/tech/jupyter.html">Jupyter</a></span>
@@ -81,7 +81,7 @@ title: Portfolio
 
 <div class="project-card-index" markdown="1">
 
-#### <a href="projects\excel-gs-dashboards.html">Excel & Google sheets dashboards</a>  
+#### <a href="projects\excel-gs-dashboards.html">Excel & Google sheets dashboards</a><br>
 
 <span class="project-tech-tag"><a href="/tags/tech/google-sheets.html">Google Sheets</a></span>
 <span class="project-tech-tag"><a href="/tags/tech/excel.html">Excel</a></span>
@@ -129,7 +129,7 @@ title: Portfolio
 
 <div class="project-card-index" markdown="1">
 
-#### <a href="/projects/web-dev.html">Flask web with users and address book functionality</a>
+#### <a href="/projects/web-dev.html">Flask web with users and address book functionality</a><br>
 
 <span class="project-tech-tag"><a href="/tags/tech/python.html">Python</a></span>
 <span class="project-tech-tag"><a href="/tags/tech/seaborn.html">Seaborn</a></span>
@@ -156,7 +156,7 @@ title: Portfolio
 
 <div class="project-card-index" markdown="1">
 
-#### <a href="/projects/games.html">Games</a>
+#### <a href="/projects/games.html">Games</a><br>
 
 <span class="project-tech-tag"><a href="/tags/tech/python.html">Python</a></span>
 <span class="project-tech-tag"><a href="/tags/tech/pygame.html">Pygame</a></span>
