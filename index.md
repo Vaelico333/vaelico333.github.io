@@ -67,7 +67,7 @@ title: Portfolio
 <span class="project-tech-tag"><a href="/tags/tech/seaborn.html">Seaborn</a></span>
 <span class="project-tech-tag"><a href="/tags/tech/numpy.html">Numpy</a></span>
 <span class="project-tech-tag"><a href="/tags/tech/pandas.html">Pandas</a></span>
-<span class="project-tech-tag"><a href="/tags/tech/scikit-learn.html">Scikit-learn</
+<span class="project-tech-tag"><a href="/tags/tech/scikit-learn.html">Scikit-learn</span>
 
 <span class="project-skill-tag"><a href="/tags/skills/data-analysis.html">Data Analysis</a></span>
 <span class="project-skill-tag"><a href="/tags/skills/machine-learning.html">Machine Learning</a></span>
