@@ -62,17 +62,21 @@ title: Portfolio
 
 #### <a href="\gl\prueba_mod7_DZG.html">Wine Quality Prediction</a><br>
 
+<p>
 <span class="project-tech-tag"><a href="/tags/tech/python.html">Python</a></span>
 <span class="project-tech-tag"><a href="/tags/tech/jupyter.html">Jupyter</a></span>
 <span class="project-tech-tag"><a href="/tags/tech/seaborn.html">Seaborn</a></span>
 <span class="project-tech-tag"><a href="/tags/tech/numpy.html">Numpy</a></span>
 <span class="project-tech-tag"><a href="/tags/tech/pandas.html">Pandas</a></span>
 <span class="project-tech-tag"><a href="/tags/tech/scikit-learn.html">Scikit-learn</a></span>
+</p>
 
+<p>
 <span class="project-skill-tag"><a href="/tags/skills/data-analysis.html">Data Analysis</a></span>
 <span class="project-skill-tag"><a href="/tags/skills/machine-learning.html">Machine Learning</a></span>
 <span class="project-skill-tag"><a href="/tags/skills/data-visualization.html">Data Visualization</a></span>
 <span class="project-skill-tag"><a href="/tags/skills/python-programming.html">Python Programming</a></span>
+</p>
 
 <a href="/projects/wine_quality.html">
     <img class="index-project-image" src="{{ '/images/calidad_vino.png' | relative_url }}" alt="Wine Quality Prediction Project">
