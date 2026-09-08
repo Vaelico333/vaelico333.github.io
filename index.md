@@ -9,7 +9,7 @@ title: Portfolio
 
 <div class="project-card-index" markdown="1">
 
-#### <a href="/projects/machine-learning-desktop-application.html">Machine Learning Desktop Application</a><br>
+### <a href="/projects/machine-learning-desktop-application.html">Machine Learning Desktop Application</a><br>
 
 <div class="project-tech-tags">
 <span class="project-tech-tag"><a href="/tags/tech/python.html">Python</a></span>
