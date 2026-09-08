@@ -42,7 +42,7 @@ title: Portfolio
 
 <div class="project-card-index" markdown="1">
 
-#### <a href="/gl/Learner2B-2BCode2B-2BCustomers%252BPrediction.html">ExtraaLearn: Online School Analysis</a><br>
+### <a href="/gl/Learner2B-2BCode2B-2BCustomers%252BPrediction.html">ExtraaLearn: Online School Analysis</a><br>
 
 <div class="project-tech-tags">
 <span class="project-tech-tag"><a href="/tags/tech/python.html">Python</a></span>
@@ -68,7 +68,7 @@ title: Portfolio
 
 <div class="project-card-index" markdown="1">
 
-#### <a href="\gl\prueba_mod7_DZG.html">Wine Quality Prediction</a><br>
+### <a href="\gl\prueba_mod7_DZG.html">Wine Quality Prediction</a><br>
 
 <div class="project-tech-tags">
 <span class="project-tech-tag"><a href="/tags/tech/python.html">Python</a></span>
@@ -93,7 +93,7 @@ title: Portfolio
 
 <div class="project-card-index" markdown="1">
 
-#### <a href="projects\excel-gs-dashboards.html">Excel & Google sheets dashboards</a><br>
+### <a href="projects\excel-gs-dashboards.html">Excel & Google sheets dashboards</a><br>
 
 <div class="project-tech-tags">
 <span class="project-tech-tag"><a href="/tags/tech/google-sheets.html">Google Sheets</a></span>
@@ -117,7 +117,7 @@ title: Portfolio
 
 <div class="project-card-index" markdown="1">
 
-#### <a href="/projects/machine-learning-desktop-application.html">Machine Learning Desktop Application</a><br>
+### <a href="/projects/machine-learning-desktop-application.html">Machine Learning Desktop Application</a><br>
 
 <div class="project-tech-tags">
 <span class="project-tech-tag"><a href="/tags/tech/python.html">Python</a></span>
@@ -149,7 +149,7 @@ title: Portfolio
 
 <div class="project-card-index" markdown="1">
 
-#### <a href="/projects/web-dev.html">Flask web with users and address book functionality</a><br>
+### <a href="/projects/web-dev.html">Flask web with users and address book functionality</a><br>
 
 <div class="project-tech-tags">
 <span class="project-tech-tag"><a href="/tags/tech/python.html">Python</a></span>
@@ -180,7 +180,7 @@ title: Portfolio
 
 <div class="project-card-index" markdown="1">
 
-#### <a href="/projects/games.html">Games</a><br>
+### <a href="/projects/games.html">Games</a><br>
 
 <div class="project-tech-tags">
 <span class="project-tech-tag"><a href="/tags/tech/python.html">Python</a></span>
