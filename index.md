@@ -1,6 +1,6 @@
 ---
 layout: default
-title: index
+title: Portfolio
 ---
 
 # Selected Projects
@@ -9,28 +9,43 @@ title: index
 
 #### <a href="/projects/machine-learning-desktop-application.html">Machine Learning Desktop Application</a><br>
 
+<span class="tech-tag"><a href="/tags/tech/python.html">Python</a></span>
+<span class="tech-tag"><a href="/tags/tech/seaborn.html">Seaborn</a></span>
+<span class="tech-tag"><a href="/tags/tech/numpy.html">Numpy</a></span>
+<span class="tech-tag"><a href="/tags/tech/pandas.html">Pandas</a></span>
+<span class="tech-tag"><a href="/tags/tech/scikit-learn.html">Scikit-learn</a></span>
+<span class="tech-tag"><a href="/tags/tech/matplotlib.html">Matplotlib</a></span>
+<span class="tech-tag"><a href="/tags/tech/pyqt5.html">PyQt5</a></span>
+<span class="tech-tag"><a href="/tags/tech/xgboost.html">XGBoost</a></span>
+<span class="tech-tag"><a href="/tags/tech/github.html">GitHub</a></span>
+
+<span class="skill-tag"><a href="/tags/skills/data-analysis.html">Data Analysis</a></span>
+<span class="skill-tag"><a href="/tags/skills/machine-learning.html">Machine Learning</a></span>
+<span class="skill-tag"><a href="/tags/skills/data-visualization.html">Data Visualization</a></span>
+<span class="skill-tag"><a href="/tags/skills/python-programming.html">Python Programming</a></span>
+<span class="skill-tag"><a href="/tags/skills/desktop-applications.html">Desktop Applications</a></span>
+
 <a href="/projects/machine-learning-desktop-application.html">
     <img class="index-project-image" src="{{ '/images/app_hosp_eval_xgb.png' | relative_url }}" alt="Machine Learning Application Project">
 </a>
 
-<span class="project-tech-tag"><a href="https://www.python.org/">Python</a></span>
-<span class="project-tech-tag"><a href="https://pypi.org/project/PyQt5/">PyQt5</a></span>
-<span class="project-tech-tag"><a href="https://pandas.pydata.org/">Pandas</a></span>
-<span class="project-tech-tag"><a href="https://numpy.org/">NumPy</a></span>
-<span class="project-tech-tag"><a href="https://scikit-learn.org/stable/">Scikit-learn</a></span>
-<span class="project-tech-tag"><a href="https://xgboost.ai/">XGBoost</a></span>
-<span class="project-tech-tag"><a href="https://matplotlib.org/">Matplotlib</a></span>
-<span class="project-tech-tag"><a href="https://seaborn.pydata.org/">Seaborn</a></span>
-
-<span class="project-skills-tag">Python Programming</span>
-<span class="project-skills-tag">Desktop Applications</span>
-<span class="project-skills-tag">Machine Learning</span>
-<span class="project-skills-tag">Data Analysis</span>
-<span class="project-skills-tag">Data Visualization</span>
-
 ## Data Analysis
 
-#### <a href="gl\Learner2B-2BCode2B-2BCustomers%2BPrediction.html">ExtraaLearn: Online School Analysis</a>  
+#### <a href="gl\Learner2B-2BCode2B-2BCustomers%2BPrediction.html">ExtraaLearn: Online School Analysis</a>
+
+<span class="tech-tag"><a href="/tags/tech/python.html">Python</a></span>
+<span class="tech-tag"><a href="/tags/tech/jupyter.html">Jupyter</a></span>
+<span class="tech-tag"><a href="/tags/tech/seaborn.html">Seaborn</a></span>
+<span class="tech-tag"><a href="/tags/tech/numpy.html">Numpy</a></span>
+<span class="tech-tag"><a href="/tags/tech/pandas.html">Pandas</a></span>
+<span class="tech-tag"><a href="/tags/tech/scikit-learn.html">Scikit-learn</a></span>
+<span class="tech-tag"><a href="/tags/tech/matplotlib.html">Matplotlib</a></span>
+
+<span class="skill-tag"><a href="/tags/skills/data-analysis.html">Data Analysis</a></span>
+<span class="skill-tag"><a href="/tags/skills/machine-learning.html">Machine Learning</a></span>
+<span class="skill-tag"><a href="/tags/skills/data-visualization.html">Data Visualization</a></span>
+<span class="skill-tag"><a href="/tags/skills/python-programming.html">Python Programming</a></span>
+
 
 <a href="/projects/extraalearn.html">
     <img class="index-project-image" src="{{ '/images/extraalearn_front.png' | relative_url }}" alt="Online School Analysis Project">
@@ -51,11 +66,44 @@ title: index
 
 ## Python & Software
 
-#### <a href="/projects/machine-learning-desktop-application.html">Python Desktop Application</a>
+#### <a href="/projects/machine-learning-desktop-application.html">Machine Learning Desktop Application</a><br>
+
+<span class="tech-tag"><a href="/tags/tech/python.html">Python</a></span>
+<span class="tech-tag"><a href="/tags/tech/seaborn.html">Seaborn</a></span>
+<span class="tech-tag"><a href="/tags/tech/numpy.html">Numpy</a></span>
+<span class="tech-tag"><a href="/tags/tech/pandas.html">Pandas</a></span>
+<span class="tech-tag"><a href="/tags/tech/scikit-learn.html">Scikit-learn</a></span>
+<span class="tech-tag"><a href="/tags/tech/matplotlib.html">Matplotlib</a></span>
+<span class="tech-tag"><a href="/tags/tech/pyqt5.html">PyQt5</a></span>
+<span class="tech-tag"><a href="/tags/tech/xgboost.html">XGBoost</a></span>
+
+<span class="skill-tag"><a href="/tags/skills/data-analysis.html">Data Analysis</a></span>
+<span class="skill-tag"><a href="/tags/skills/machine-learning.html">Machine Learning</a></span>
+<span class="skill-tag"><a href="/tags/skills/data-visualization.html">Data Visualization</a></span>
+<span class="skill-tag"><a href="/tags/skills/python-programming.html">Python Programming</a></span>
+<span class="skill-tag"><a href="/tags/skills/desktop-applications.html">Desktop Applications</a></span>
+
+<a href="/projects/machine-learning-desktop-application.html">
+    <img class="index-project-image" src="{{ '/images/app_hosp_eval_xgb.png' | relative_url }}" alt="Machine Learning Application Project">
+</a>
 
 ## Web Development
 
 #### <a href="/projects/web-dev.html">Flask web with users and address book functionality</a>
+
+<span class="tech-tag"><a href="/tags/tech/python.html">Python</a></span>
+<span class="tech-tag"><a href="/tags/tech/seaborn.html">Seaborn</a></span>
+<span class="tech-tag"><a href="/tags/tech/pandas.html">Pandas</a></span>
+<span class="tech-tag"><a href="/tags/tech/matplotlib.html">Matplotlib</a></span>
+<span class="tech-tag"><a href="/tags/tech/sql.html">SQL</a></span>
+<span class="tech-tag"><a href="/tags/tech/flask.html">Flask</a></span>
+
+<span class="skill-tag"><a href="/tags/skills/data-analysis.html">Data Analysis</a></span>
+<span class="skill-tag"><a href="/tags/skills/data-visualization.html">Data Visualization</a></span>
+<span class="skill-tag"><a href="/tags/skills/python-programming.html">Python Programming</a></span>
+<span class="skill-tag"><a href="/tags/skills/databases.html">Databases</a></span>
+<span class="skill-tag"><a href="/tags/skills/web-development.html">Web Development</a></span>
+
 
 <a href="/projects/web-dev.html">
     <img class="index-project-image" src="{{ '/images/flask_web_address.png' | relative_url }}" alt="Web App with Flask">
@@ -64,6 +112,12 @@ title: index
 ## Experiments & Fun
 
 #### <a href="/projects/games.html">Games</a>
+
+<span class="tech-tag"><a href="/tags/tech/python.html">Python</a></span>
+<span class="tech-tag"><a href="/tags/tech/pygame.html">Pygame</a></span>
+
+<span class="skill-tag"><a href="/tags/skills/python-programming.html">Python Programming</a></span>
+
 
 <a href="/projects/games.html">
     <img class="index-project-image" src="{{ '/images/tt_t.png' | relative_url }}" alt="Tick Tack Toe Game">
