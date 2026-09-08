@@ -103,11 +103,10 @@
    display: block;
    margin-top: 0.5rem;
    border-radius: 0.45rem;
-   border-color: #406177;
-   border-width: 5px, 0px, 5px, 0px;
-   padding: 5%;
+   border-top: 5px solid #406177;
+   border-bottom: 5px solid #406177;
    background: #e7c21d;
-   padding: 0.5rem;
+   padding: 5%;
    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.089);
 }
 
