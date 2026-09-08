@@ -97,13 +97,23 @@
 }
 
 .project-card-index {
-   display: flex;
-   flex-wrap: wrap;
-   gap: 0.45rem;
+   display: block;
    margin-top: 0.5rem;
    border-radius: 0.45rem;
    background: #e7c21d;
    padding: 0.5rem;
+}
+
+.project-card-index h4,
+.project-tech-tags,
+.project-skill-tags,
+.index-project-image {
+   display: block;
+}
+
+.project-tech-tags,
+.project-skill-tags {
+   margin: 0.45rem 0;
 }
 
 
