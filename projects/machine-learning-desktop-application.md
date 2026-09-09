@@ -16,18 +16,19 @@ A desktop application built with **Python and PyQt5** that takes the user throug
 
 <p class="project-links">
 <a class="project-button" href="https://github.com/Vaelico333/Proyecto-final-machine-learning-en-Deusto">View on GitHub</a>
-<a class="project-button secondary" href="https://drive.google.com/file/d/1YWJ2tx1j1lj6hpa0lUCA7CevUgd51wPF/view?usp=drive_link">Download / Demo</a>
+<a class="project-button secondary" href="https://drive.usercontent.google.com/download?id=1YWJ2tx1j1lj6hpa0lUCA7CevUgd51wPF&export=download&authuser=0">Download / Demo</a>
 </p>
 
 <span class="project-tech-tags">
-<span class="project-tech-tag"><a href="https://www.python.org/">Python</a></span>
-<span class="project-tech-tag"><a href="https://pypi.org/project/PyQt5/">PyQt5</a></span>
-<span class="project-tech-tag"><a href="https://pandas.pydata.org/">Pandas</a></span>
-<span class="project-tech-tag"><a href="https://numpy.org/">NumPy</a></span>
-<span class="project-tech-tag"><a href="https://scikit-learn.org/stable/">Scikit-learn</a></span>
-<span class="project-tech-tag"><a href="https://xgboost.ai/">XGBoost</a></span>
-<span class="project-tech-tag"><a href="https://matplotlib.org/">Matplotlib</a></span>
-<span class="project-tech-tag"><a href="https://seaborn.pydata.org/">Seaborn</a></span>
+<span class="project-tech-tag"><a href="/tags/tech/python.html">Python</a></span>
+<span class="project-tech-tag"><a href="/tags/tech/pyqt5.html">PyQt5</a></span>
+<span class="project-tech-tag"><a href="/tags/tech/pandas.html">Pandas</a></span>
+<span class="project-tech-tag"><a href="/tags/tech/numpy.html">Numpy</a></span>
+<span class="project-tech-tag"><a href="/tags/tech/scikit-learn.html">Scikit-learn</a></span>
+<span class="project-tech-tag"><a href="/tags/tech/xgboost.html">XGBoost</a></span>
+<span class="project-tech-tag"><a href="/tags/tech/matplotlib.html">Matplotlib</a></span>
+<span class="project-tech-tag"><a href="/tags/tech/seaborn.html">Seaborn</a></span>
+<span class="project-tech-tag"><a href="/tags/tech/github.html">GitHub</a></span>
 </span>
 
 <img class="project-hero-image" src="{{ '/images/app_hospitalizacion_gif.gif' | relative_url }}" alt="Machine learning desktop application">
