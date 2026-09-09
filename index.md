@@ -74,6 +74,7 @@ title: Portfolio
 <span class="project-tech-tag"><a href="/tags/tech/python.html">Python</a></span>
 <span class="project-tech-tag"><a href="/tags/tech/jupyter.html">Jupyter</a></span>
 <span class="project-tech-tag"><a href="/tags/tech/seaborn.html">Seaborn</a></span>
+<span class="project-tech-tag"><a href="/tags/tech/matplotlib.html">Matplotlib</a></span>
 <span class="project-tech-tag"><a href="/tags/tech/numpy.html">Numpy</a></span>
 <span class="project-tech-tag"><a href="/tags/tech/pandas.html">Pandas</a></span>
 <span class="project-tech-tag"><a href="/tags/tech/scikit-learn.html">Scikit-learn</a></span>
