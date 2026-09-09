@@ -180,7 +180,7 @@ It also helped me move from working primarily with notebooks and isolated experi
 The complete source code, example models, metadata and documentation are available on GitHub.
 
 <p class="project-links">
-<a class="project-button" href="https://github.com/Vaelico333/Proyecto-final-machine-learning-en-Deusto">View source code</a>
+<a class="project-button" href="https://github.com/Vaelico333/Proyecto-final-machine-learning-en-Deusto">View source code on GitHub</a>
 </p>
 
 <p><a href="{{ '/' | relative_url }}">← Back to portfolio</a></p>
