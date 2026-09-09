@@ -9,7 +9,7 @@ title: Portfolio
 
 <div class="project-card-index" markdown="1">
 
-### <a href="/projects/machine-learning-desktop-application.html">Machine Learning Desktop Application</a><br>
+### <a href="/projects/machine-learning-desktop-application.html" target="_blank" rel="noopener noreferrer">Machine Learning Desktop Application</a><br>
 
 <div class="project-tech-tags">
 <span class="project-tech-tag"><a href="/tags/tech/python.html">Python</a></span>
@@ -31,7 +31,7 @@ title: Portfolio
 <span class="project-skill-tag"><a href="/tags/skills/desktop-applications.html">Desktop Applications</a></span>
 </div>
 
-<a href="/projects/machine-learning-desktop-application.html">
+<a href="/projects/machine-learning-desktop-application.html" target="_blank" rel="noopener noreferrer">
     <img class="index-project-image" src="{{ '/images/app_hosp_eval_xgb.png' | relative_url }}" alt="Machine Learning Application Project">
 </a>
 </div>
@@ -42,7 +42,7 @@ title: Portfolio
 
 <div class="project-card-index" markdown="1">
 
-### <a href="/gl/Learner2B-2BCode2B-2BCustomers%252BPrediction.html">ExtraaLearn: Online School Analysis</a><br>
+### <a href="/gl/Learner2B-2BCode2B-2BCustomers%252BPrediction.html" target="_blank" rel="noopener noreferrer">ExtraaLearn: Online School Analysis</a><br>
 
 <div class="project-tech-tags">
 <span class="project-tech-tag"><a href="/tags/tech/python.html">Python</a></span>
@@ -61,14 +61,14 @@ title: Portfolio
 <span class="project-skill-tag"><a href="/tags/skills/python-programming.html">Python Programming</a></span>
 </div>
 
-<a href="/projects/extraalearn.html">
+<a href="/projects/extraalearn.html" target="_blank" rel="noopener noreferrer">
     <img class="index-project-image" src="{{ '/images/extraalearn_front.png' | relative_url }}" alt="Online School Analysis Project">
 </a>
 </div>
 
 <div class="project-card-index" markdown="1">
 
-### <a href="\gl\prueba_mod7_DZG.html">Wine Quality Prediction</a><br>
+### <a href="\gl\prueba_mod7_DZG.html" target="_blank" rel="noopener noreferrer">Wine Quality Prediction</a><br>
 
 <div class="project-tech-tags">
 <span class="project-tech-tag"><a href="/tags/tech/python.html">Python</a></span>
@@ -86,14 +86,14 @@ title: Portfolio
 <span class="project-skill-tag"><a href="/tags/skills/python-programming.html">Python Programming</a></span>
 </div>
 
-<a href="/projects/wine_quality.html">
+<a href="/projects/wine_quality.html" target="_blank" rel="noopener noreferrer">
     <img class="index-project-image" src="{{ '/images/calidad_vino.png' | relative_url }}" alt="Wine Quality Prediction Project">
 </a>
 </div>
 
 <div class="project-card-index" markdown="1">
 
-### <a href="projects\excel-gs-dashboards.html">Excel & Google sheets dashboards</a><br>
+### <a href="projects\excel-gs-dashboards.html" target="_blank" rel="noopener noreferrer">Excel & Google sheets dashboards</a><br>
 
 <div class="project-tech-tags">
 <span class="project-tech-tag"><a href="/tags/tech/google-sheets.html">Google Sheets</a></span>
@@ -106,7 +106,7 @@ title: Portfolio
 <span class="project-skill-tag"><a href="/tags/skills/spreadsheet-proficiency.html">Spreadsheet Proficiency</a></span>
 </div>
 
-<a href="/projects/excel-gs-dashboards.html">
+<a href="/projects/excel-gs-dashboards.html" target="_blank" rel="noopener noreferrer">
     <img class="index-project-image" src="{{ '/images/dashboard_xls.png' | relative_url }}" alt="Various Excel and Google Sheets Dashboards">
 </a>
 </div>
@@ -117,7 +117,7 @@ title: Portfolio
 
 <div class="project-card-index" markdown="1">
 
-### <a href="/projects/machine-learning-desktop-application.html">Machine Learning Desktop Application</a><br>
+### <a href="/projects/machine-learning-desktop-application.html" target="_blank" rel="noopener noreferrer">Machine Learning Desktop Application</a><br>
 
 <div class="project-tech-tags">
 <span class="project-tech-tag"><a href="/tags/tech/python.html">Python</a></span>
@@ -138,7 +138,7 @@ title: Portfolio
 <span class="project-skill-tag"><a href="/tags/skills/desktop-applications.html">Desktop Applications</a></span>
 </div>
 
-<a href="/projects/machine-learning-desktop-application.html">
+<a href="/projects/machine-learning-desktop-application.html" target="_blank" rel="noopener noreferrer">
     <img class="index-project-image" src="{{ '/images/app_hosp_eval_xgb.png' | relative_url }}" alt="Machine Learning Application Project">
 </a>
 </div>
@@ -149,7 +149,7 @@ title: Portfolio
 
 <div class="project-card-index" markdown="1">
 
-### <a href="/projects/web-dev.html">Flask web with users and address book functionality</a><br>
+### <a href="/projects/web-dev.html" target="_blank" rel="noopener noreferrer">Flask web with users and address book functionality</a><br>
 
 <div class="project-tech-tags">
 <span class="project-tech-tag"><a href="/tags/tech/python.html">Python</a></span>
@@ -169,7 +169,7 @@ title: Portfolio
 </div>
 
 
-<a href="/projects/web-dev.html">
+<a href="/projects/web-dev.html" target="_blank" rel="noopener noreferrer">
     <img class="index-project-image" src="{{ '/images/flask_web_address.png' | relative_url }}" alt="Web App with Flask">
 </a>
 </div>
@@ -180,7 +180,7 @@ title: Portfolio
 
 <div class="project-card-index" markdown="1">
 
-### <a href="/projects/games.html">Games</a><br>
+### <a href="/projects/games.html" target="_blank" rel="noopener noreferrer">Games</a><br>
 
 <div class="project-tech-tags">
 <span class="project-tech-tag"><a href="/tags/tech/python.html">Python</a></span>
@@ -192,7 +192,7 @@ title: Portfolio
 </div>
 
 
-<a href="/projects/games.html">
+<a href="/projects/games.html" target="_blank" rel="noopener noreferrer">
     <img class="index-project-image" src="{{ '/images/tt_t.png' | relative_url }}" alt="Tick Tack Toe Game">
 </a>
 </div>
