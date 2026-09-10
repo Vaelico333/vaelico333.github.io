@@ -3,7 +3,7 @@ layout: default
 title: Portfolio
 ---
 
-# Selected Projects
+# Python Developer & Data Analyst
 
 ## ⭐ Featured  
 
@@ -94,7 +94,7 @@ title: Portfolio
 
 <div class="project-card-index" markdown="1">
 
-### <a href="projects\excel-gs-dashboards.html" target="_blank" rel="noopener noreferrer">Excel & Google sheets dashboards</a><br>
+### <a href="/projects/excel-gs-dashboards.html" target="_blank" rel="noopener noreferrer">Excel & Google sheets dashboards</a><br>
 
 <div class="project-tech-tags">
 <span class="project-tech-tag"><a href="/tags/tech/google-sheets.html">Google Sheets</a></span>
