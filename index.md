@@ -68,7 +68,7 @@ title: Portfolio
 
 <div class="project-card-index" markdown="1">
 
-### <a href="\gl\prueba_mod7_DZG.html" target="_blank" rel="noopener noreferrer">Wine Quality Prediction</a><br>
+### <a href="/projects/wine_quality.html" target="_blank" rel="noopener noreferrer">Wine Quality Prediction</a><br>
 
 <div class="project-tech-tags">
 <span class="project-tech-tag"><a href="/tags/tech/python.html">Python</a></span>
