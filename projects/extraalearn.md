@@ -18,15 +18,13 @@ Using customer behaviour data to identify high-potential leads, understand conve
 <a href="{{ '/gl/lead_conversion_prediction.html' | relative_url }}" class="project-button">HTML Report</a>
 </div>
 
-<div class="tech-tags">
-<span>Python</span>
-<span>Pandas</span>
-<span>NumPy</span>
-<span>Scikit-learn</span>
-<span>Matplotlib</span>
-<span>Seaborn</span>
-<span>Machine Learning</span>
-<span>Data Analysis</span>
+<div class="project-tech-tags">
+<span class="project-tech-tag"><a href="/tags/tech/python.html">Python</a></span>
+<span class="project-tech-tag"><a href="/tags/tech/pandas.html">Pandas</a></span>
+<span class="project-tech-tag"><a href="/tags/tech/numpy.html">Numpy</a></span>
+<span class="project-tech-tag"><a href="/tags/tech/scikit-learn.html">Scikit-learn</a></span>
+<span class="project-tech-tag"><a href="/tags/tech/matplotlib.html">Matplotlib</a></span>
+<span class="project-tech-tag"><a href="/tags/tech/seaborn.html">Seaborn</a></span>
 </div>
 
 <img class="project-hero-image" src="{{ '/images/extraalearn_feat_importance.png' | relative_url }}" alt="Lead Conversion Prediction">
