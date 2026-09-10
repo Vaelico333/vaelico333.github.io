@@ -200,7 +200,6 @@ async def main():
             # no romper aquí; puedes optar por reiniciar o salir
             raise
 
-asyncio.run(main())
 
 if __name__ == "__main__":
     import asyncio
