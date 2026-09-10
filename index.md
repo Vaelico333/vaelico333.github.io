@@ -114,38 +114,6 @@ title: Portfolio
 
 ---
 
-## Python & Software
-
-<div class="project-card-index" markdown="1">
-
-### <a href="/projects/machine-learning-desktop-application.html" target="_blank" rel="noopener noreferrer">Machine Learning Desktop Application</a><br>
-
-<div class="project-tech-tags">
-<span class="project-tech-tag"><a href="/tags/tech/python.html">Python</a></span>
-<span class="project-tech-tag"><a href="/tags/tech/seaborn.html">Seaborn</a></span>
-<span class="project-tech-tag"><a href="/tags/tech/numpy.html">Numpy</a></span>
-<span class="project-tech-tag"><a href="/tags/tech/pandas.html">Pandas</a></span>
-<span class="project-tech-tag"><a href="/tags/tech/scikit-learn.html">Scikit-learn</a></span>
-<span class="project-tech-tag"><a href="/tags/tech/matplotlib.html">Matplotlib</a></span>
-<span class="project-tech-tag"><a href="/tags/tech/pyqt5.html">PyQt5</a></span>
-<span class="project-tech-tag"><a href="/tags/tech/xgboost.html">XGBoost</a></span>
-</div>
-
-<div class="project-skill-tags">
-<span class="project-skill-tag"><a href="/tags/skills/data-analysis.html">Data Analysis</a></span>
-<span class="project-skill-tag"><a href="/tags/skills/machine-learning.html">Machine Learning</a></span>
-<span class="project-skill-tag"><a href="/tags/skills/data-visualization.html">Data Visualization</a></span>
-<span class="project-skill-tag"><a href="/tags/skills/python-programming.html">Python Programming</a></span>
-<span class="project-skill-tag"><a href="/tags/skills/desktop-applications.html">Desktop Applications</a></span>
-</div>
-
-<a href="/projects/machine-learning-desktop-application.html" target="_blank" rel="noopener noreferrer">
-    <img class="index-project-image" src="{{ '/images/app_hosp_eval_xgb.png' | relative_url }}" alt="Machine Learning Application Project">
-</a>
-</div>
-
----
-
 ## Web Development
 
 <div class="project-card-index" markdown="1">
