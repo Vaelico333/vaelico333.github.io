@@ -14,8 +14,8 @@ Using customer behaviour data to identify high-potential leads, understand conve
 </p>
 
 <div class="project-buttons">
-<a href="https\\:vaelico333.github.io" class="project-button">GitHub</a>
-<a href="{{ '/gl/Learner2B-2BCode2B-2BCustomers%2BPrediction.html' | relative_url }}" class="project-button">HTML Report</a>
+<a href="https://github.com/Vaelico333" class="project-button">GitHub</a>
+<a href="{{ '/gl/lead_conversion_prediction.html' | relative_url }}" class="project-button">HTML Report</a>
 </div>
 
 <div class="tech-tags">
@@ -433,6 +433,6 @@ The most valuable part of the project was translating model outputs into a concr
 
 The complete analysis, including the exploratory work, data preparation, modelling and evaluation, is available in the project repository.
 
-<a href="https\\:vaelico333.github.io" class="project-button">View source code on GitHub →</a>
+<a href="https://github.com/Vaelico333" class="project-button">View source code on GitHub →</a>
 
 </div>
