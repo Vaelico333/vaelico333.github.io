@@ -30,7 +30,8 @@ A modular Flask web application combining user authentication, database manageme
 <span>CSS</span>
 </div>
 
-![Python Web Application](../assets/images/python-web-application/python-web-application-hero.png)
+<img class="project-hero-image" src="{{ '/images/flask_web_front.png' | relative_url }}" alt="Machine learning desktop application">
+
 
 ---
 
@@ -83,6 +84,8 @@ The main modules are:
 
 ### User Management
 
+<img class="project-hero-image" src="{{ '/images/flask_web_access.png' | relative_url}}" alt="Login page">
+
 A user administration system providing:
 
 - User registration.
@@ -95,6 +98,8 @@ A user administration system providing:
 
 ### Contact Management
 
+<img class="project-hero-image" src="{{ '/images/flask_web_address.png' | relative_url}}" alt="Address book managing page">
+
 An agenda system allowing authenticated users to:
 
 - Create contacts.
@@ -105,6 +110,8 @@ An agenda system allowing authenticated users to:
 - Display contacts associated with the current user.
 
 ### Data Analysis
+
+<img class="project-hero-image" src="{{ '/images/flask_web_analysis.png' | relative_url}}" alt="Frontpage of the Analysis part">
 
 A data analysis dashboard that processes a COVID-19 dataset and allows the user to explore different indicators through visualizations.
 
@@ -350,7 +357,26 @@ The charts are rendered server-side and converted into Base64 data URIs before b
 
 This allows the generated visualizations to be displayed directly within the web application without requiring a separate chart server.
 
-The analysis service also configures Matplotlib to use a non-interactive backend, which is appropriate for generating images from a web application rather than displaying them through a desktop interface.
+The analysis service also configures Matplotlib to use a non-interactive backend, which is appropriate for generating images from a web application rather than displaying them through a desktop interface.  
+  
+There are two kinds of charts, depending on the way we want to categorize the data:
+
+
+### Total cases per province and day of the week - Bar Chart
+
+We can view the whole dataset:
+<img class="project-hero-image" src="{{ '/images/flask_web_barchart_all.png' | relative_url}}" alt="Bar chart of the whole dataset by province and day of the week">
+  
+Or just the 10 most prominent ones:
+<img class="project-hero-image" src="{{ '/images/flask_web_barchart_ten.png' | relative_url}}" alt="Bar chart of the ten highest by province and day of the week">
+
+### Percentage of ocurrence per province - Pie Chart
+
+We can view the whole dataset:
+<img class="project-hero-image" src="{{ '/images/flask_web_piechart_all.png' | relative_url}}" alt="Pie chart of the whole dataset by province">
+  
+Or just the 10 most prominent ones:
+<img class="project-hero-image" src="{{ '/images/flask_web_piechart_ten.png' | relative_url}}" alt="Pie chart of the ten highest by province">
 
 ---
 
