@@ -118,7 +118,7 @@ title: Portfolio
 
 <div class="project-card-index" markdown="1">
 
-### <a href="/projects/web-dev.html" target="_blank" rel="noopener noreferrer">Flask web with users and address book functionality</a><br>
+### <a href="/projects/triple-web-flask.html" target="_blank" rel="noopener noreferrer">Flask web with users and address book functionality</a><br>
 
 <div class="project-tech-tags">
 <span class="project-tech-tag"><a href="/tags/tech/python.html">Python</a></span>
@@ -138,7 +138,7 @@ title: Portfolio
 </div>
 
 
-<a href="/projects/web-dev.html" target="_blank" rel="noopener noreferrer">
+<a href="/projects/triple-web-flask.html" target="_blank" rel="noopener noreferrer">
     <img class="index-project-image" src="{{ '/images/flask_web_address.png' | relative_url }}" alt="Web App with Flask">
 </a>
 </div>
