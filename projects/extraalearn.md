@@ -29,7 +29,7 @@ Using customer behaviour data to identify high-potential leads, understand conve
 <span>Data Analysis</span>
 </div>
 
-<img class="project-hero-image" src="{{ '/images/extraalearn_front.png' | relative_url }}" alt="Lead Conversion Prediction">
+<img class="project-hero-image" src="{{ '/images/extraalearn_feat_importance.png' | relative_url }}" alt="Lead Conversion Prediction">
 
 ---
 
