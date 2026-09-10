@@ -42,7 +42,7 @@ title: Portfolio
 
 <div class="project-card-index" markdown="1">
 
-### <a href="/projects/extraalearn.md" target="_blank" rel="noopener noreferrer">ExtraaLearn: Online School Analysis</a><br>
+### <a href="/projects/extraalearn.html" target="_blank" rel="noopener noreferrer">ExtraaLearn: Online School Analysis</a><br>
 
 <div class="project-tech-tags">
 <span class="project-tech-tag"><a href="/tags/tech/python.html">Python</a></span>
