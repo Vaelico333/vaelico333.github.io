@@ -28,7 +28,7 @@ A modular Flask web application combining user authentication, database manageme
 <span class="project-tech-tag"><a href="/tags/tech/seaborn.html">Seaborn</a></span>
 </span>
 
-<img class="project-hero-image" src="{{ '/images/flask_web_front.png' | relative_url }}" alt="Machine learning desktop application">
+<img class="project-hero-image" src="{{ '/images/flask_web_front.png' | relative_url }}" alt="Frontpage of the flask application">
 
 
 ---
