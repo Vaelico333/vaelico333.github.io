@@ -165,16 +165,3 @@ title: Portfolio
     <img class="index-project-image" src="{{ '/images/tt_t.png' | relative_url }}" alt="Tick Tack Toe Game">
 </a>
 </div>
-
----
-
-
-## Excel Dashboard: global music streaming (https://github.com/Vaelico333/Excel_Dashboard/blob/main/Global_Music_Streaming_Listener_Preferences.csv)
-
-## Excel dashboard: pedidos (D:\thePower\Dashboard+guiado+Excel\Dashboard_1.xlsx) -> ESCRIBIR README
-
-## Excel dashboard: Netflix ("D:\thePower\EDA+con+Excel\BBDD_Usiarios_Netflix_jun.xlsm") -> ESCRIBIR README
-
-## Google sheets dashboard: perfumes (https://docs.google.com/spreadsheets/d/13H6jlL5q8THAymECVlUGRbaSOid6pj7PxMjE-JGyV0s/edit?usp=drive_link)
-
-## Google sheets dashboard: telecomunicaciones (https://docs.google.com/spreadsheets/d/1NiCbn9hxk-UBleZgCb4KTxXYC5ve5bipirudZv7pRvQ/edit?usp=drive_link)
