@@ -2,3 +2,4 @@
 games/build/web-cache/
 __pycache__/
 /excel/tareas.txt
+*.pyc
