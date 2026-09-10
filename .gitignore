@@ -1,4 +1,4 @@
 /.github/agents
-D:\GitHub\vaelico333.github.io\games\build\web-cache
-D:\GitHub\vaelico333.github.io\app\__pycache__
-D:\GitHub\vaelico333.github.io\excel\tareas.txt
+games/build/web-cache/
+__pycache__/
+/excel/tareas.txt
