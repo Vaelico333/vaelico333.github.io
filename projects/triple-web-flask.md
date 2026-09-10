@@ -17,18 +17,16 @@ A modular Flask web application combining user authentication, database manageme
 <a href="https://github.com/Vaelico333/Proyecto-final-python-en-Deusto" class="project-button">GitHub</a>
 </div>
 
-<div class="tech-tags">
-<span>Python</span>
-<span>Flask</span>
-<span>SQLAlchemy</span>
-<span>SQLite</span>
-<span>Flask-Login</span>
-<span>Pandas</span>
-<span>Matplotlib</span>
-<span>Seaborn</span>
-<span>HTML</span>
-<span>CSS</span>
-</div>
+<span class="project-tech-tags">
+<span class="tech-tag"><a href="/tags/tech/python.html">Python</a></span>
+<span class="tech-tag"><a href="/tags/tech/flask.html">Flask</a></span>
+<span class="tech-tag"><a href="/tags/tech/sql.html">SQLAlchemy</a></span>
+<span class="tech-tag"><a href="/tags/tech/sql.html">SQLite</a></span>
+<span class="tech-tag"><a href="/tags/tech/flask.html">Flask-Login</a></span>
+<span class="tech-tag"><a href="/tags/tech/pandas.html">Pandas</a></span>
+<span class="tech-tag"><a href="/tags/tech/matplotlib.html">Matplotlib</a></span>
+<span class="tech-tag"><a href="/tags/tech/seaborn.html">Seaborn</a></span>
+</span>
 
 <img class="project-hero-image" src="{{ '/images/flask_web_front.png' | relative_url }}" alt="Machine learning desktop application">
 
