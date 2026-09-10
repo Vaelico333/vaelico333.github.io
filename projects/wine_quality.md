@@ -22,7 +22,6 @@ title: Wine Quality Prediction
 <span class="project-tech-tag"><a href="/tags/tech/pandas.html">Pandas</a></span>
 <span class="project-tech-tag"><a href="/tags/tech/numpy.html">NumPy</a></span>
 <span class="project-tech-tag"><a href="/tags/tech/scikit-learn.html">Scikit-learn</a></span>
-<span class="project-tech-tag"><a href="/tags/tech/statsmodels.html">Statsmodels</a></span>
 <span class="project-tech-tag"><a href="/tags/tech/matplotlib.html">Matplotlib</a></span>
 <span class="project-tech-tag"><a href="/tags/tech/seaborn.html">Seaborn</a></span>
 </span>
