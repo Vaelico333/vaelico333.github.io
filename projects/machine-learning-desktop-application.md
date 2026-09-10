@@ -102,8 +102,12 @@ The repository includes three trained example models together with their JSON me
 | **Random Forest**   | **97.68%** | **98.85%** | **96.48%** | **97.65%** |
 | **XGBoost**         | **97.68%** | **98.85%** | **96.48%** | **97.65%** |
 
-The example results show a clear performance improvement from Logistic Regression to the tree-based models on this dataset.
-
+**Best example performance**
+  
+97.68% accuracy · 97.65% F1  
+  
+Random Forest and XGBoost achieved the strongest results in the example experiment, outperforming Logistic Regression by more than five percentage points in accuracy.  
+  
 Because the dataset is synthetic, these figures demonstrate the modelling workflow rather than representing expected performance on real clinical data.
 
 ---
