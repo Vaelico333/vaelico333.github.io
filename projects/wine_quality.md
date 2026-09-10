@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Extraalearn analysis
+title: Wine Quality Analysis
 ---
 
 <div class="project-page" markdown="1">
@@ -11,7 +11,7 @@ title: Extraalearn analysis
 
 <p class="project-links">
 <a class="project-button" href="https://github.com/Vaelico333/Wine-Quality-Study">View on GitHub</a>
-<a class="project-button secondary" href="{{ '/projects/wine_quality.html' | relative_url }}" target="_blank" rel="noopener noreferrer">View HTML export</a>
+<a class="project-button secondary" href="{{ '/gl/prueba_mod7_DZG.html' | relative_url }}" target="_blank" rel="noopener noreferrer">View HTML export</a>
 </p>
 
 <span class="project-tech-tags">
@@ -31,13 +31,14 @@ title: Extraalearn analysis
 ## Overview
 
 This is an education project where I created a model capable of predicting the quality of a given wine, based on its characteristics (e.g., citric acid, chlorides, density, pH...).  
+The data is downloaded directly from a CSV file located in the webpage of the <a href="https://uci.edu/">University of California, Irvine</a>.
 It's written in `Jupyter Notebook` format, due to its simplicity and effectiveness in documenting both the process and the results via data visualization.
 
 ---
 
 ## Process
 
-The complete workflow is:
+The complete workflow is:  
 **Data retrieval → EDA → Preprocessing → Model Training → Model Evaluation → Visualization**  
 At first, I trained a `Linear Regression` model with standardization, and another one without it, to have something to compare with, but I saw that the results were suboptimal, so I went for feature selection, and added a bonus `Decision Tree Classifier` for flavour.
 
@@ -100,9 +101,10 @@ I decided to try a `Decision Tree Regressor` model, but the results were worse t
 | Standardized Linear Regression | 0.400 | 0.413 |
 | VIF Linear Regression | 0.395 | 0.421 |
 | PCA Linear Regression | 0.393 | 0.423 |
-| Polynomial Linear Regressor - Grade 2 | 0.64 | 0.388 |
+| Polynomial Linear Regressor - Grade 2 | 0.640 | 0.388 |
 | Decision Tree Regressor | 0.432 | 0.365 |
 
+The best possible results would be **MSE=0** and **R²=1**.
 The best model was `Linear Regression` with `PCA` selected features.
 
 ---
