@@ -13,7 +13,7 @@ title: Python Flask Web Application
 A modular Flask web application combining user authentication, database management, contact management, and interactive data analysis.
 </p>
 
-<div class="project-buttons">
+<div class="project-links">
 <a href="https://github.com/Vaelico333/Proyecto-final-python-en-Deusto" class="project-button">GitHub</a>
 </div>
 

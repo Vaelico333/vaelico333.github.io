@@ -13,7 +13,7 @@ title: Lead Conversion Prediction
 Using customer behaviour data to identify high-potential leads, understand conversion drivers, and support more targeted marketing decisions.
 </p>
 
-<div class="project-buttons">
+<div class="project-links">
 <a href="https://github.com/Vaelico333" class="project-button">GitHub</a>
 <a href="{{ '/gl/lead_conversion_prediction.html' | relative_url }}" class="project-button">HTML Report</a>
 </div>
