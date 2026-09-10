@@ -7,9 +7,7 @@ title: Extraalearn analysis
 
 <p class="project-kicker"> MACHINE LEARNING PROJECT · PYTHON · JUPYTER</p>
 
-# Machine Learning Desktop Application
-
-### 
+# Machine Learning - Wine Quality Prediction
 
 <p class="project-links">
 <a class="project-button" href="https://github.com/Vaelico333/Wine-Quality-Study">View on GitHub</a>
@@ -26,7 +24,7 @@ title: Extraalearn analysis
 <span class="project-tech-tag"><a href="/tags/tech/scikit-learn.html">Scikit-learn</a></span>
 </span>
 
-<img class="project-hero-image" src="{{ '/images/app_hospitalizacion_gif.gif' | relative_url }}" alt="Machine learning desktop application">
+<img class="project-hero-image" src="{{ '/images/calidad_vino.png' | relative_url }}" alt="Machine learning desktop application">
 
 ---
 
@@ -102,7 +100,8 @@ I decided to try a `Decision Tree Regressor` model, but the results were worse t
 | Standardized Linear Regression | 0.400 | 0.413 |
 | VIF Linear Regression | 0.395 | 0.421 |
 | PCA Linear Regression | 0.393 | 0.423 |
-| Decision Tree Regressor | 0.422 | 0.380 |
+| Polynomial Linear Regressor - Grade 2 | 0.64 | 0.388 |
+| Decision Tree Regressor | 0.432 | 0.365 |
 
 The best model was `Linear Regression` with `PCA` selected features.
 
