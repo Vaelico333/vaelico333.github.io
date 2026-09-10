@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Extraalearn analysis
+title: Excel and Google Sheets Dashboards
 ---
 Excel and Google Sheets dashboards.
