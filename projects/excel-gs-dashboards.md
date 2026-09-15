@@ -15,7 +15,7 @@ title: Excel and Google Sheets Dashboards
 
 ### Excel Dashboard: global music streaming (https://github.com/Vaelico333/Excel_Dashboard/blob/main/Global_Music_Streaming_Listener_Preferences.csv)
 
-<iframe width="1200" height="900" frameborder="0" scrolling="no" src="https://1drv.ms/x/c/fb79b25c4ffe0316/IQT5CCbpd7WDRL3Mvnhp2W5vAYj2d31plBQiIigGa1s4Vt4?em=2&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
+<iframe width="900" height="600" frameborder="0" scrolling="no" src="https://1drv.ms/x/c/fb79b25c4ffe0316/IQT5CCbpd7WDRL3Mvnhp2W5vAYj2d31plBQiIigGa1s4Vt4?em=2&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
 
 ### Excel dashboard: pedidos (D:\thePower\Dashboard+guiado+Excel\Dashboard_1.xlsx) -> ESCRIBIR README
 
